@@ -20,7 +20,7 @@ Updates:
    \let\MakeUppercaseUnsupportedInPdfStrings\@firstofone
    \let\MakeLowercaseUnsupportedInPdfStrings\@firstofone
    \makeatother
-   ``r
+   ```
 
 
 The easiest way to compile this sample thesis on any Unix platform is
