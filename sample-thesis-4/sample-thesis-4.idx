@@ -718,8 +718,8 @@
 \indexentry{gnu!predators!lions|hyperpage}{26}
 \indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}|hyperpage}{26}
 \indexentry{Lovelace, Lady Augusta Ada (1815--1852)|hyperindexformat{\mainpage}}{28}
-\indexentry{Babbage, Charles (1791--1871)|hyperindexformat{\mainpage}}{28}
-\indexentry{transform|hyperpage}{28}
+\indexentry{Babbage, Charles (1791--1871)|hyperindexformat{\mainpage}}{29}
+\indexentry{transform|hyperpage}{29}
 \indexentry{gnu hair|hyperpage}{29}
 \indexentry{gnu  hair|hyperpage}{29}
 \indexentry{ gnu  hair|hyperpage}{29}
@@ -740,10 +740,10 @@
 \indexentry{gnu!predators!hyenas|hyperpage}{29}
 \indexentry{gnu!predators!lions|hyperpage}{29}
 \indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}|hyperpage}{29}
-\indexentry{DCT|hyperindexformat{\see{discrete cosine transform}}}{30}
-\indexentry{DWT|hyperindexformat{\see{discrete wavelet transform}}}{30}
-\indexentry{Borel measure ($\mu$)|hyperpage}{30}
-\indexentry{mu@$\mu$ (mu)|hyperindexformat{\see{Borel measure}}}{30}
-\indexentry{Escherichia coli@\bioname{Escherichia coli}|hyperindexformat{\see{E. coli}}}{30}
-\indexentry{transform|hyperindexformat{\seealso{Discrete DCT Transform}}}{30}
-\indexentry{transform|hyperindexformat{\seealso{Fast Fourier Transform}}}{30}
+\indexentry{DCT|hyperindexformat{\see{discrete cosine transform}}}{32}
+\indexentry{DWT|hyperindexformat{\see{discrete wavelet transform}}}{32}
+\indexentry{Borel measure ($\mu$)|hyperpage}{32}
+\indexentry{mu@$\mu$ (mu)|hyperindexformat{\see{Borel measure}}}{32}
+\indexentry{Escherichia coli@\bioname{Escherichia coli}|hyperindexformat{\see{E. coli}}}{32}
+\indexentry{transform|hyperindexformat{\seealso{Discrete DCT Transform}}}{32}
+\indexentry{transform|hyperindexformat{\seealso{Fast Fourier Transform}}}{32}

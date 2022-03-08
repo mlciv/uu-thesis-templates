@@ -1,0 +1,186 @@
+\def \noopsort #1{}
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Babbage(1910)]{Babbage:1910:BBA}
+H.~P. Babbage.
+\newblock {Babbage}: {Babbage}'s analytical engine.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society}, 70\penalty0
+  (??):\penalty0 517--526, 645, 1910.
+\newblock ISSN 0035-8711.
+\newblock Reprinted in \cite[\S 2.3]{Randell:1982:ODC}.
+
+\bibitem[Beebe(2007)]{Beebe:2007:ETM}
+Nelson H.~F. Beebe.
+\newblock Extending {\TeX} and {\MF} with floating-point arithmetic.
+\newblock \emph{{\TUB{}}}, 28\penalty0 (3):\penalty0 319--328, 2007.
+\newblock ISSN 0896-3207.
+
+\bibitem[Beebe and Rodgers(1989)]{Beebe:1989:PCP}
+Nelson H.~F. Beebe and R.~P.~C. Rodgers.
+\newblock {$<$PLOT79$>$}: a comprehensive portable {Fortran} scientific line
+  graphics system, as applied to biomedical research.
+\newblock \emph{Computers in Biology and Medicine}, 19\penalty0 (6):\penalty0
+  385--402, 1989.
+
+\bibitem[Bohr(1911)]{Bohr:1911:SME}
+Niels Henrik~David Bohr.
+\newblock \emph{{Studier over Metallernes Elektronteori}. ({Danish}) [{Studies}
+  on the electron theory of metals]}.
+\newblock Doktor disputats, K{\o}benhavns Universitet, K{\o}benhavn, Danmark,
+  1911.
+\newblock URL \url{http://genealogy.math.ndsu.nodak.edu/id.php?id=105783;
+  http://www.nba.nbi.dk/bohr1911a.jpg; http://www.nba.nbi.dk/bohr1911c.jpg}.
+\newblock Afhandling for den filosofiske doktorgrad. [Thesis for the Doctor of
+  Philosophy.].
+
+\bibitem[{Cody, Jr.}(1981)]{Cody:1981:APF}
+William~J. {Cody, Jr.}
+\newblock Analysis of proposals for the floating-point standard.
+\newblock \emph{Computer}, 14\penalty0 (3):\penalty0 63--69, March 1981.
+
+\bibitem[Dijkstra(1953)]{Dijkstra:1953:FBV}
+Edsger~W. Dijkstra.
+\newblock Functionele beschrijving van de {ARRA}. ({Dutch}) [{Functional}
+  description of the {ARRA}].
+\newblock Technical Report~12, Mathematisch Centrum, Amsterdam, The
+  Netherlands, 1953.
+\newblock URL \url{http://www.cs.utexas.edu/users/EWD/MCReps/MR12.PDF}.
+
+\bibitem[Dirac(1926)]{Dirac:1926:QM}
+Paul Adrien~Maurice Dirac.
+\newblock \emph{Quantum Mechanics}.
+\newblock {Ph.D.} thesis, Cambridge University, Cambridge, UK, June 1926.
+\newblock According to \cite[p. 101]{Farmelo:2009:SMH}, this is the first
+  thesis to be submitted anywhere on the subject of quantum mechanics.
+
+\bibitem[Einstein(1911{\natexlab{a}})]{Einstein:1911:BMAa}
+A.~Einstein.
+\newblock {Bemerkung zu meiner Arbeit: Eine Beziehung zwischen dem elastischen
+  Verhalten}. ({German}) [{Remark} on my paper: {``A relationship between the
+  elastic behavior \ldots{}''}].
+\newblock \emph{Annalen der Physik (1900) (series 4)}, 339\penalty0
+  (3):\penalty0 590--590, 1911{\natexlab{a}}.
+\newblock ISSN 0003-3804.
+\newblock \doi{http://dx.doi.org/10.1002/andp.19113390312}.
+\newblock See \cite{Einstein:1911:BZE}.
+
+\bibitem[Einstein(1905)]{Einstein:1905:NBM}
+Albert Einstein.
+\newblock \emph{{Eine Neue Bestimmung der Molek{\"u}ldimensionen}. ({German})
+  [{A} new determination of molecular dimensions]}.
+\newblock Inaugural dissertation, Bern Wyss., Bern, Switzerland, 1905.
+\newblock URL \url{http://en.wikipedia.org/wiki/Alfred_Kleiner}.
+\newblock Published in \cite{Einstein:1906:NBM}.
+
+\bibitem[Einstein(1906)]{Einstein:1906:NBM}
+Albert Einstein.
+\newblock {Eine neue Bestimmung der Molek{\"u}ldimensionen}. ({German}) [{A}
+  new determination of molecular dimensions].
+\newblock \emph{Annalen der Physik (1900) (series 4)}, 324\penalty0
+  (2):\penalty0 289--306, 1906.
+\newblock ISSN 0003-3804.
+\newblock \doi{http://dx.doi.org/10.1002/andp.19063240204}.
+\newblock See corrections \cite{Einstein:1911:BMAa,Einstein:1911:BMAb}. This is
+  a slightly revised version of Einstein's doctoral dissertation
+  \cite{Einstein:1905:NBM}.
+
+\bibitem[Einstein(1911{\natexlab{b}})]{Einstein:1911:BMAb}
+Albert Einstein.
+\newblock {Berichtigung zu meiner Arbeit: Eine neue Bestimmung der
+  Molek{\"u}ldimensionen}. ({German}) [{Corrections} to my work: a new
+  determination of molecular dimensions].
+\newblock \emph{Annalen der Physik (1900) (series 4)}, 339\penalty0
+  (3):\penalty0 591--592, 1911{\natexlab{b}}.
+\newblock ISSN 0003-3804.
+\newblock \doi{http://dx.doi.org/10.1002/andp.19113390313}.
+\newblock See \cite{Einstein:1906:NBM}.
+
+\bibitem[Goldstine and Goldstine(1946)]{Goldstine:1946:ENI}
+H.~H. Goldstine and Adele Goldstine.
+\newblock The {Electronic Numerical Integrator and Computer (ENIAC)}.
+\newblock \emph{Mathematical Tables and Other Aids to Computation}, 2\penalty0
+  (15):\penalty0 97--110, July 1946.
+\newblock ISSN 0891-6837.
+\newblock Reprinted in \cite[\S 7.7]{Randell:1982:ODC}.
+
+\bibitem[Hall and Patil(1994)]{Hall:1994:PNE}
+Peter Hall and Prakash Patil.
+\newblock Properties of nonparametric estimators of autocovariance for
+  stationary random fields.
+\newblock \emph{Probability Theory and Related Fields}, 99\penalty0
+  (3):\penalty0 399--424, 1994.
+\newblock ISSN 0178-8051 (print), 1432-2064 (electronic).
+
+\bibitem[Heilbron and Kuhn(1969)]{Heilbron:1969:GBA}
+John~L. Heilbron and Thomas~S. Kuhn.
+\newblock The genesis of the {Bohr} atom.
+\newblock \emph{Historical Studies in the Physical Sciences}, 1\penalty0
+  (??):\penalty0 vi, 211--290, ???? 1969.
+\newblock ISSN 0073-2672.
+\newblock URL \url{http://www.jstor.org/stable/27757291}.
+
+\bibitem[Huskey and Huskey(1980)]{Huskey:1980:LLC}
+Velma~R. Huskey and Harry~D. Huskey.
+\newblock {Lady Lovelace} and {Charles Babbage}.
+\newblock \emph{Annals of the History of Computing}, 2\penalty0 (4):\penalty0
+  299--329, October\slash December 1980.
+\newblock ISSN 0164-1239.
+\newblock URL \url{http://dlib.computer.org/an/books/an1980/pdf/a4299.pdf;
+  http://www.computer.org/annals/an1980/a4299abs.htm}.
+
+\bibitem[Johnson and Lesk(1978)]{Johnson:1978:LDT}
+Steven~C. Johnson and Michael~E. Lesk.
+\newblock Language development tools.
+\newblock \emph{The Bell System Technical Journal}, 57\penalty0 (6):\penalty0
+  2155--2176, July\slash August 1978.
+
+\bibitem[Kim and Toole(1999)]{Kim:1999:AFC}
+Eugene~Eric Kim and Betty~Alexandra Toole.
+\newblock {Ada} and the first computer: The collaboration between ada, countess
+  of lovelace, and computer pioneer {Charles Babbage} resulted in a landmark
+  publication that described how to program the world's first computer.
+\newblock \emph{Scientific American}, 280\penalty0 (5):\penalty0 76--81, May
+  1999.
+\newblock ISSN 0036-8733 (print), 1946-7087 (electronic).
+
+\bibitem[Lahiri et~al.(2002)Lahiri, Lee, and Cressie]{Lahiri:2002:ADA}
+Soumendra~Nath Lahiri, Yoondong Lee, and Noel Cressie.
+\newblock On asymptotic distribution and asymptotic efficiency of least squares
+  estimators of spatial variogram parameters.
+\newblock \emph{Journal of Statistical Planning and Inference}, 103\penalty0
+  (1):\penalty0 65--85, 2002.
+\newblock ISSN 0378-3758 (print), 1873-1171 (electronic).
+
+\bibitem[Pos(1990)]{Adobe:1990:AFM}
+\emph{{Adobe} font metric files specification --- Version 3.0}.
+\newblock PostScript Developer Tools \& Strategies Group, Adobe Systems Inc.,
+  Mountain View, CA, USA, March 1990.
+
+\bibitem[Taylor and Wiles(1995)]{Taylor:1995:RTP}
+Richard Taylor and Andrew Wiles.
+\newblock Ring-theoretic properties of certain {Hecke} algebras.
+\newblock \emph{Annals of Mathematics}, 142:\penalty0 553--572, 1995.
+\newblock This paper is a companion to \cite{Wiles:1995:MEC}, providing the
+  remedy for the flaw in Wiles' 1993 proof of Fermat's Last Theorem. See also
+  \cite{Singh:1997:FEE}.
+
+\bibitem[Wiles(1995)]{Wiles:1995:MEC}
+Andrew Wiles.
+\newblock Modular elliptic curves and {Fermat's Last Theorem}.
+\newblock \emph{Annals of Mathematics}, 142:\penalty0 443--551, 1995.
+\newblock This paper contains the bulk of the author's proof of the
+  Taniyama--Shimura conjecture and Fermat's Last Theorem, carried out at
+  Princeton University. The companion paper \cite{Taylor:1995:RTP} contains the
+  solution to the flaw discovered in the proof that Wiles announced on June 23,
+  1993, in Cambridge, England. See also \cite{Singh:1997:FEE}. In March 2014,
+  now Royal Society Research Professor Sir Andrew John Wiles of Oxford
+  University was awarded the prestigious Abel Prize in Mathematics for this
+  proof --- an award that also carries a cash prize of six million Norwegian
+  crowns, or about US\$722,000.
+
+\end{thebibliography}

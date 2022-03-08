@@ -45,6 +45,6 @@
 \contentsline {chapter}{\numberline {A.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The First}\global \uuthesis@needtocspacetrue }{25}{appendix.A}
 \contentsline {chapter}{\numberline {B.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Second}\global \uuthesis@needtocspacetrue }{26}{appendix.B}
 \contentsline {chapter}{\numberline {C.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Third}\global \uuthesis@needtocspacetrue }{27}{appendix.C}
-\contentsline {chapter}{{\MakeUppercase {Binomial Nomenclature Index}}}{30}{appendix.C}
-\contentsline {chapter}{{\MakeUppercase {Free Software Index}}}{31}{appendix.C}
-\contentsline {chapter}{{\MakeUppercase {Topic Index}}}{35}{appendix.C}
+\contentsline {chapter}{REFERENCES}{30}{section*.18}
+\contentsline {chapter}{{\MakeUppercase {Binomial Nomenclature Index}}}{33}{section*.18}
+\contentsline {chapter}{{\MakeUppercase {Free Software Index}}}{34}{section*.18}
