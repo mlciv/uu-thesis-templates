@@ -6,6 +6,23 @@ However, this template removes the references after per chapter, which is more c
 
 For including the whole pdf and adding reference after each chapter, we move it into ../sample-thesis-4/
 
+Updates:
+
+1. use the new 'uu-thesis-hyper.sty', see more log details in the file for
+   understanding the fixes
+2. In sample-thesis-4.ltx, we introduce more packages, such natabib, hyperref.
+   To support the hyperref, we have to add some hack after the begin{document}.
+   ```
+   %%% hyperref \MakeUppercaseUnsupportedInPdfStrings being an undefined
+   command.
+   %%% https://github.com/ho-tex/oberdiek/issues/58
+   \makeatletter
+   \let\MakeUppercaseUnsupportedInPdfStrings\@firstofone
+   \let\MakeLowercaseUnsupportedInPdfStrings\@firstofone
+   \makeatother
+   ``r
+
+
 The easiest way to compile this sample thesis on any Unix platform is
 to simply type
 
