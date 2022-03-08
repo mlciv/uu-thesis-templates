@@ -1,0 +1,27 @@
+\gdef \the@ipfilectr {@-1}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The first figure.}}{2}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The second figure.}}{3}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces The third figure.}}{8}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces The fourth figure (at 50\% scale).}}{10}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces The fifth figure (at 75\% scale).}}{10}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces The sixth figure (at native size).}}{10}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces The seventh figure (at 125\% scale).}}{10}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces The eighth figure (at 175\% scale).}}{10}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces The ninth figure (at 50\% scale)}}{12}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces The tenth figure (at 75\% scale)}}{12}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Using \LaTeX {} \texttt {picture} mode}}{13}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-7}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\gdef \the@ipfilectr {}

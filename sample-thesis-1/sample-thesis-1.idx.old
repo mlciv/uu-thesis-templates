@@ -1,0 +1,749 @@
+\indexentry{Encapulated PostScript (EPS)}{1}
+\indexentry{Portable Document Format (PDF)}{1}
+\indexentry{a2ps@\fsfname {a2ps}}{6}
+\indexentry{acct@\fsfname {acct}}{6}
+\indexentry{acm@\fsfname {acm}}{6}
+\indexentry{adns@\fsfname {adns}}{6}
+\indexentry{alive@\fsfname {alive}}{6}
+\indexentry{anubis@\fsfname {anubis}}{6}
+\indexentry{apl@\fsfname {apl}}{6}
+\indexentry{archimedes@\fsfname {archimedes}}{6}
+\indexentry{aris@\fsfname {aris}}{6}
+\indexentry{aspell@\fsfname {aspell}}{6}
+\indexentry{auctex@\fsfname {auctex}}{6}
+\indexentry{autoconf-archive@\fsfname {autoconf-archive}}{6}
+\indexentry{autoconf@\fsfname {autoconf}}{6}
+\indexentry{autogen@\fsfname {autogen}}{6}
+\indexentry{automake@\fsfname {automake}}{6}
+\indexentry{avl@\fsfname {avl}}{6}
+\indexentry{ballandpaddle@\fsfname {ballandpaddle}}{6}
+\indexentry{barcode@\fsfname {barcode}}{6}
+\indexentry{bash@\fsfname {bash}}{6}
+\indexentry{bayonne@\fsfname {bayonne}}{6}
+\indexentry{bc@\fsfname {bc}}{6}
+\indexentry{binutils@\fsfname {binutils}}{6}
+\indexentry{bison@\fsfname {bison}}{6}
+\indexentry{bool@\fsfname {bool}}{6}
+\indexentry{bpel2owfn@\fsfname {bpel2owfn}}{6}
+\indexentry{c-graph@\fsfname {c-graph}}{6}
+\indexentry{ccaudio@\fsfname {ccaudio}}{6}
+\indexentry{ccd2cue@\fsfname {ccd2cue}}{6}
+\indexentry{ccrtp@\fsfname {ccrtp}}{6}
+\indexentry{ccscript@\fsfname {ccscript}}{7}
+\indexentry{cfengine@\fsfname {cfengine}}{7}
+\indexentry{cflow@\fsfname {cflow}}{7}
+\indexentry{cgicc@\fsfname {cgicc}}{7}
+\indexentry{chess@\fsfname {chess}}{7}
+\indexentry{cim@\fsfname {cim}}{7}
+\indexentry{classpath@\fsfname {classpath}}{7}
+\indexentry{classpathx@\fsfname {classpathx}}{7}
+\indexentry{clisp@\fsfname {clisp}}{7}
+\indexentry{combine@\fsfname {combine}}{7}
+\indexentry{commoncpp@\fsfname {commoncpp}}{7}
+\indexentry{complexity@\fsfname {complexity}}{7}
+\indexentry{config@\fsfname {config}}{7}
+\indexentry{coreutils@\fsfname {coreutils}}{7}
+\indexentry{cpio@\fsfname {cpio}}{7}
+\indexentry{cppi@\fsfname {cppi}}{7}
+\indexentry{cssc@\fsfname {cssc}}{7}
+\indexentry{cursynth@\fsfname {cursynth}}{7}
+\indexentry{dap@\fsfname {dap}}{7}
+\indexentry{datamash@\fsfname {datamash}}{7}
+\indexentry{ddd@\fsfname {ddd}}{7}
+\indexentry{ddrescue@\fsfname {ddrescue}}{7}
+\indexentry{dejagnu@\fsfname {dejagnu}}{7}
+\indexentry{denemo@\fsfname {denemo}}{7}
+\indexentry{dico@\fsfname {dico}}{7}
+\indexentry{diction@\fsfname {diction}}{7}
+\indexentry{diffutils@\fsfname {diffutils}}{7}
+\indexentry{dionysus@\fsfname {dionysus}}{7}
+\indexentry{direvent@\fsfname {direvent}}{7}
+\indexentry{dismal@\fsfname {dismal}}{7}
+\indexentry{dominion@\fsfname {dominion}}{7}
+\indexentry{easejs@\fsfname {easejs}}{7}
+\indexentry{ed@\fsfname {ed}}{7}
+\indexentry{edma@\fsfname {edma}}{7}
+\indexentry{electric@\fsfname {electric}}{7}
+\indexentry{emacs@\fsfname {emacs}}{7}
+\indexentry{emms@\fsfname {emms}}{7}
+\indexentry{enscript@\fsfname {enscript}}{7}
+\indexentry{fdisk@\fsfname {fdisk}}{7}
+\indexentry{ferret@\fsfname {ferret}}{7}
+\indexentry{findutils@\fsfname {findutils}}{7}
+\indexentry{fisicalab@\fsfname {fisicalab}}{7}
+\indexentry{flex@\fsfname {flex}}{7}
+\indexentry{fontutils@\fsfname {fontutils}}{7}
+\indexentry{freedink@\fsfname {freedink}}{7}
+\indexentry{freefont@\fsfname {freefont}}{7}
+\indexentry{freeipmi@\fsfname {freeipmi}}{7}
+\indexentry{gama@\fsfname {gama}}{7}
+\indexentry{garpd@\fsfname {garpd}}{7}
+\indexentry{gawk@\fsfname {gawk}}{7}
+\indexentry{gcal@\fsfname {gcal}}{7}
+\indexentry{gcc@\fsfname {gcc}}{7}
+\indexentry{gcide@\fsfname {gcide}}{7}
+\indexentry{gcl@\fsfname {gcl}}{7}
+\indexentry{gcompris@\fsfname {gcompris}}{7}
+\indexentry{gdb@\fsfname {gdb}}{7}
+\indexentry{gdbm@\fsfname {gdbm}}{7}
+\indexentry{gengen@\fsfname {gengen}}{7}
+\indexentry{gengetopt@\fsfname {gengetopt}}{7}
+\indexentry{gettext@\fsfname {gettext}}{7}
+\indexentry{gforth@\fsfname {gforth}}{7}
+\indexentry{ggradebook@\fsfname {ggradebook}}{7}
+\indexentry{ghostscript@\fsfname {ghostscript}}{7}
+\indexentry{gift@\fsfname {gift}}{7}
+\indexentry{gleem@\fsfname {gleem}}{7}
+\indexentry{glibc@\fsfname {glibc}}{7}
+\indexentry{global@\fsfname {global}}{7}
+\indexentry{glpk@\fsfname {glpk}}{7}
+\indexentry{gmp@\fsfname {gmp}}{7}
+\indexentry{gnash@\fsfname {gnash}}{7}
+\indexentry{gnats@\fsfname {gnats}}{7}
+\indexentry{gnatsweb@\fsfname {gnatsweb}}{7}
+\indexentry{gnu-c-manual@\fsfname {gnu-c-manual}}{7}
+\indexentry{gnu-crypto@\fsfname {gnu-crypto}}{7}
+\indexentry{gnu-pw-mgr@\fsfname {gnu-pw-mgr}}{7}
+\indexentry{gnubatch@\fsfname {gnubatch}}{7}
+\indexentry{gnubik@\fsfname {gnubik}}{7}
+\indexentry{gnucap@\fsfname {gnucap}}{7}
+\indexentry{gnucobol@\fsfname {gnucobol}}{7}
+\indexentry{gnudos@\fsfname {gnudos}}{7}
+\indexentry{gnue@\fsfname {gnue}}{7}
+\indexentry{gnugo@\fsfname {gnugo}}{7}
+\indexentry{gnuit@\fsfname {gnuit}}{7}
+\indexentry{gnujump@\fsfname {gnujump}}{7}
+\indexentry{gnukart@\fsfname {gnukart}}{7}
+\indexentry{gnumach@\fsfname {gnumach}}{7}
+\indexentry{gnun@\fsfname {gnun}}{7}
+\indexentry{gnunet@\fsfname {gnunet}}{7}
+\indexentry{gnupod@\fsfname {gnupod}}{7}
+\indexentry{gnuprologjava@\fsfname {gnuprologjava}}{7}
+\indexentry{gnuradio@\fsfname {gnuradio}}{7}
+\indexentry{gnurobots@\fsfname {gnurobots}}{7}
+\indexentry{gnuschool@\fsfname {gnuschool}}{7}
+\indexentry{gnushogi@\fsfname {gnushogi}}{7}
+\indexentry{gnusound@\fsfname {gnusound}}{7}
+\indexentry{gnuspeech@\fsfname {gnuspeech}}{7}
+\indexentry{gnuspool@\fsfname {gnuspool}}{7}
+\indexentry{gnustep@\fsfname {gnustep}}{7}
+\indexentry{gnutls@\fsfname {gnutls}}{7}
+\indexentry{gnutrition@\fsfname {gnutrition}}{7}
+\indexentry{gnuzilla@\fsfname {gnuzilla}}{7}
+\indexentry{goptical@\fsfname {goptical}}{7}
+\indexentry{gperf@\fsfname {gperf}}{7}
+\indexentry{gprolog@\fsfname {gprolog}}{7}
+\indexentry{greg@\fsfname {greg}}{7}
+\indexentry{grep@\fsfname {grep}}{7}
+\indexentry{groff@\fsfname {groff}}{7}
+\indexentry{grub@\fsfname {grub}}{7}
+\indexentry{gsasl@\fsfname {gsasl}}{7}
+\indexentry{gsegrafix@\fsfname {gsegrafix}}{7}
+\indexentry{gsl@\fsfname {gsl}}{7}
+\indexentry{gslip@\fsfname {gslip}}{7}
+\indexentry{gsrc@\fsfname {gsrc}}{7}
+\indexentry{gss@\fsfname {gss}}{7}
+\indexentry{gtypist@\fsfname {gtypist}}{7}
+\indexentry{guile-gnome@\fsfname {guile-gnome}}{7}
+\indexentry{guile-gtk@\fsfname {guile-gtk}}{7}
+\indexentry{guile-ncurses@\fsfname {guile-ncurses}}{7}
+\indexentry{guile-opengl@\fsfname {guile-opengl}}{7}
+\indexentry{guile-rpc@\fsfname {guile-rpc}}{7}
+\indexentry{guile-sdl@\fsfname {guile-sdl}}{7}
+\indexentry{guile@\fsfname {guile}}{7}
+\indexentry{gv@\fsfname {gv}}{7}
+\indexentry{gvpe@\fsfname {gvpe}}{7}
+\indexentry{gxmessage@\fsfname {gxmessage}}{7}
+\indexentry{gzip@\fsfname {gzip}}{7}
+\indexentry{halifax@\fsfname {halifax}}{7}
+\indexentry{health@\fsfname {health}}{7}
+\indexentry{hello@\fsfname {hello}}{7}
+\indexentry{help2man@\fsfname {help2man}}{7}
+\indexentry{hp2xx@\fsfname {hp2xx}}{7}
+\indexentry{httptunnel@\fsfname {httptunnel}}{7}
+\indexentry{hurd@\fsfname {hurd}}{7}
+\indexentry{hyperbole@\fsfname {hyperbole}}{7}
+\indexentry{idutils@\fsfname {idutils}}{7}
+\indexentry{ignuit@\fsfname {ignuit}}{7}
+\indexentry{indent@\fsfname {indent}}{7}
+\indexentry{inetutils@\fsfname {inetutils}}{7}
+\indexentry{intlfonts@\fsfname {intlfonts}}{7}
+\indexentry{jacal@\fsfname {jacal}}{7}
+\indexentry{jel@\fsfname {jel}}{7}
+\indexentry{jwhois@\fsfname {jwhois}}{7}
+\indexentry{kawa@\fsfname {kawa}}{7}
+\indexentry{less@\fsfname {less}}{7}
+\indexentry{libcdio@\fsfname {libcdio}}{7}
+\indexentry{libextractor@\fsfname {libextractor}}{7}
+\indexentry{libffcall@\fsfname {libffcall}}{7}
+\indexentry{libiconv@\fsfname {libiconv}}{7}
+\indexentry{libidn@\fsfname {libidn}}{7}
+\indexentry{libmatheval@\fsfname {libmatheval}}{7}
+\indexentry{libmicrohttpd@\fsfname {libmicrohttpd}}{7}
+\indexentry{librejs@\fsfname {librejs}}{7}
+\indexentry{libsigsegv@\fsfname {libsigsegv}}{7}
+\indexentry{libtasn1@\fsfname {libtasn1}}{7}
+\indexentry{libtool@\fsfname {libtool}}{7}
+\indexentry{libunistring@\fsfname {libunistring}}{7}
+\indexentry{libxmi@\fsfname {libxmi}}{7}
+\indexentry{lightning@\fsfname {lightning}}{7}
+\indexentry{lilypond@\fsfname {lilypond}}{7}
+\indexentry{liquidwar6@\fsfname {liquidwar6}}{7}
+\indexentry{lsh@\fsfname {lsh}}{7}
+\indexentry{m4@\fsfname {m4}}{7}
+\indexentry{macchanger@\fsfname {macchanger}}{7}
+\indexentry{mailman@\fsfname {mailman}}{7}
+\indexentry{mailutils@\fsfname {mailutils}}{7}
+\indexentry{make@\fsfname {make}}{7}
+\indexentry{marst@\fsfname {marst}}{7}
+\indexentry{maverik@\fsfname {maverik}}{7}
+\indexentry{mc@\fsfname {mc}}{7}
+\indexentry{mcron@\fsfname {mcron}}{7}
+\indexentry{mcsim@\fsfname {mcsim}}{7}
+\indexentry{mdk@\fsfname {mdk}}{7}
+\indexentry{metahtml@\fsfname {metahtml}}{7}
+\indexentry{mifluz@\fsfname {mifluz}}{7}
+\indexentry{mig@\fsfname {mig}}{7}
+\indexentry{miscfiles@\fsfname {miscfiles}}{7}
+\indexentry{mit-scheme@\fsfname {mit-scheme}}{7}
+\indexentry{moe@\fsfname {moe}}{7}
+\indexentry{motti@\fsfname {motti}}{7}
+\indexentry{mpc@\fsfname {mpc}}{7}
+\indexentry{mpfr@\fsfname {mpfr}}{7}
+\indexentry{mpria@\fsfname {mpria}}{7}
+\indexentry{mtools@\fsfname {mtools}}{7}
+\indexentry{myserver@\fsfname {myserver}}{7}
+\indexentry{nano@\fsfname {nano}}{7}
+\indexentry{ncurses@\fsfname {ncurses}}{7}
+\indexentry{nettle@\fsfname {nettle}}{7}
+\indexentry{non-gnu@\fsfname {non-gnu}}{7}
+\indexentry{ocrad@\fsfname {ocrad}}{7}
+\indexentry{octave@\fsfname {octave}}{7}
+\indexentry{oleo@\fsfname {oleo}}{7}
+\indexentry{orgadoc@\fsfname {orgadoc}}{7}
+\indexentry{osip@\fsfname {osip}}{7}
+\indexentry{paperclips@\fsfname {paperclips}}{7}
+\indexentry{parallel@\fsfname {parallel}}{7}
+\indexentry{parted@\fsfname {parted}}{7}
+\indexentry{patch@\fsfname {patch}}{7}
+\indexentry{pem@\fsfname {pem}}{7}
+\indexentry{pexec@\fsfname {pexec}}{7}
+\indexentry{phantom@\fsfname {phantom}}{7}
+\indexentry{pies@\fsfname {pies}}{7}
+\indexentry{plotutils@\fsfname {plotutils}}{7}
+\indexentry{proxyknife@\fsfname {proxyknife}}{7}
+\indexentry{pspp@\fsfname {pspp}}{7}
+\indexentry{psychosynth@\fsfname {psychosynth}}{7}
+\indexentry{pth@\fsfname {pth}}{7}
+\indexentry{pyconfigure@\fsfname {pyconfigure}}{7}
+\indexentry{radius@\fsfname {radius}}{7}
+\indexentry{rcs@\fsfname {rcs}}{7}
+\indexentry{readline@\fsfname {readline}}{7}
+\indexentry{recutils@\fsfname {recutils}}{7}
+\indexentry{reftex@\fsfname {reftex}}{7}
+\indexentry{remotecontrol@\fsfname {remotecontrol}}{7}
+\indexentry{rottlog@\fsfname {rottlog}}{7}
+\indexentry{rpge@\fsfname {rpge}}{7}
+\indexentry{rush@\fsfname {rush}}{7}
+\indexentry{sather@\fsfname {sather}}{7}
+\indexentry{sauce@\fsfname {sauce}}{7}
+\indexentry{savannah@\fsfname {savannah}}{7}
+\indexentry{scm@\fsfname {scm}}{7}
+\indexentry{screen@\fsfname {screen}}{7}
+\indexentry{sed@\fsfname {sed}}{7}
+\indexentry{serveez@\fsfname {serveez}}{7}
+\indexentry{sharutils@\fsfname {sharutils}}{7}
+\indexentry{shishi@\fsfname {shishi}}{7}
+\indexentry{shmm@\fsfname {shmm}}{7}
+\indexentry{shtool@\fsfname {shtool}}{7}
+\indexentry{sipwitch@\fsfname {sipwitch}}{7}
+\indexentry{slib@\fsfname {slib}}{7}
+\indexentry{smalltalk@\fsfname {smalltalk}}{7}
+\indexentry{solfege@\fsfname {solfege}}{7}
+\indexentry{spacechart@\fsfname {spacechart}}{7}
+\indexentry{spell@\fsfname {spell}}{7}
+\indexentry{sqltutor@\fsfname {sqltutor}}{7}
+\indexentry{src-highlite@\fsfname {src-highlite}}{7}
+\indexentry{stow@\fsfname {stow}}{7}
+\indexentry{superopt@\fsfname {superopt}}{7}
+\indexentry{swbis@\fsfname {swbis}}{7}
+\indexentry{tar@\fsfname {tar}}{7}
+\indexentry{termcap@\fsfname {termcap}}{7}
+\indexentry{termutils@\fsfname {termutils}}{7}
+\indexentry{teseq@\fsfname {teseq}}{7}
+\indexentry{teximpatient@\fsfname {teximpatient}}{7}
+\indexentry{texinfo@\fsfname {texinfo}}{7}
+\indexentry{thales@\fsfname {thales}}{7}
+\indexentry{time@\fsfname {time}}{7}
+\indexentry{tramp@\fsfname {tramp}}{7}
+\indexentry{trueprint@\fsfname {trueprint}}{7}
+\indexentry{unifont@\fsfname {unifont}}{7}
+\indexentry{units@\fsfname {units}}{7}
+\indexentry{unrtf@\fsfname {unrtf}}{7}
+\indexentry{userv@\fsfname {userv}}{7}
+\indexentry{uucp@\fsfname {uucp}}{7}
+\indexentry{vc-dwim@\fsfname {vc-dwim}}{7}
+\indexentry{vcdimager@\fsfname {vcdimager}}{7}
+\indexentry{vera@\fsfname {vera}}{7}
+\indexentry{wb@\fsfname {wb}}{7}
+\indexentry{wdiff@\fsfname {wdiff}}{7}
+\indexentry{websocket4j@\fsfname {websocket4j}}{7}
+\indexentry{wget@\fsfname {wget}}{7}
+\indexentry{which@\fsfname {which}}{7}
+\indexentry{windows@\fsfname {windows}}{7}
+\indexentry{xaos@\fsfname {xaos}}{7}
+\indexentry{xboard@\fsfname {xboard}}{7}
+\indexentry{xhippo@\fsfname {xhippo}}{7}
+\indexentry{xlogmaster@\fsfname {xlogmaster}}{7}
+\indexentry{xnee@\fsfname {xnee}}{7}
+\indexentry{xorriso@\fsfname {xorriso}}{7}
+\indexentry{zile@\fsfname {zile}}{7}
+\indexentry{gnu hair}{14}
+\indexentry{gnu  hair}{14}
+\indexentry{ gnu  hair}{14}
+\indexentry{ gnu hair }{14}
+\indexentry{E. coli bacterium@\bioname{E. coli} bacterium}{14}
+\indexentry{GNU Project}{14}
+\indexentry{gnu}{14}
+\indexentry{gnu!diet}{14}
+\indexentry{gnu!diet!wet season}{14}
+\indexentry{gnu!diet!dry season}{14}
+\indexentry{gnu!hair}{14}
+\indexentry{gnu!hair!color}{14}
+\indexentry{gnu!hair!DNA analysis}{14}
+\indexentry{gnu!hair!texture}{14}
+\indexentry{gnu!hair!thickness}{14}
+\indexentry{gnu!predators}{14}
+\indexentry{gnu!predators!crocodiles}{14}
+\indexentry{gnu!predators!hyenas}{14}
+\indexentry{gnu!predators!lions}{14}
+\indexentry{zythum (ancient Egyptian malt beverage)}{14}
+\indexentry{zoetrope}{14}
+\indexentry{zebu (cattle) (\bioname{Bos taurus indicus})}{14}
+\indexentry{zebra}{14}
+\indexentry{yucca}{14}
+\indexentry{yak}{14}
+\indexentry{xylophone}{14}
+\indexentry{xylem (woody tissue of a plant)}{14}
+\indexentry{xenon (noble gas)}{14}
+\indexentry{X radiation}{14}
+\indexentry{X ray}{14}
+\indexentry{woodchuck (\bioname{Marmota monax})}{14}
+\indexentry{wolverine}{14}
+\indexentry{wolf}{14}
+\indexentry{white-tailed deer (\bioname{Odocoileus virginianus})}{14}
+\indexentry{whippet}{14}
+\indexentry{whale}{14}
+\indexentry{weasel}{14}
+\indexentry{water buffalo}{14}
+\indexentry{wart hog}{14}
+\indexentry{wapiti (\bioname{Cervus canadensis})}{14}
+\indexentry{wanderoo}{14}
+\indexentry{walrus}{14}
+\indexentry{wallaby}{14}
+\indexentry{vulture}{14}
+\indexentry{vicuna (Vicugna vicugna)@vicu{\~n}a (\bioname{Vicugna vicugna})}{14}
+\indexentry{vampire bat}{14}
+\indexentry{unicorn}{14}
+\indexentry{turbot}{14}
+\indexentry{tuna}{14}
+\indexentry{toucan}{14}
+\indexentry{tiger (\bioname{Panthera tigris})}{14}
+\indexentry{tapir}{14}
+\indexentry{tangun}{14}
+\indexentry{swordfish}{14}
+\indexentry{suslik}{14}
+\indexentry{sunfish}{14}
+\indexentry{skunk}{14}
+\indexentry{skink}{14}
+\indexentry{sapajou}{14}
+\indexentry{salamander}{14}
+\indexentry{saber-toothed cat}{14}
+\indexentry{Alces alces@\bioname{Alces alces}}{14}
+\indexentry{Antilocapra americana@\bioname{Antilocapra americana}}{14}
+\indexentry{Bos taurus indicus@\bioname{Bos taurus indicus}}{14}
+\indexentry{Cervus canadensis@\bioname{Cervus canadensis}}{14}
+\indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}}{14}
+\indexentry{Lama glama@\bioname{Lama glama}}{14}
+\indexentry{Marmota monax@\bioname{Marmota monax}}{14}
+\indexentry{Odocoileus virginianus@\bioname{Odocoileus virginianus}}{14}
+\indexentry{Panthera tigris@\bioname{Panthera tigris}}{14}
+\indexentry{Vicugna vicugna@\bioname{Vicugna vicugna}}{14}
+\indexentry{Alces alces@\bioname{Alces alces}|see{moose}}{14}
+\indexentry{Antilocapra americana@\bioname{Antilocapra americana}|see{pronghorn}}{14}
+\indexentry{Cervus canadensis@\bioname{Cervus canadensis}|see{elk}}{14}
+\indexentry{Cervus canadensis@\bioname{Cervus canadensis}|see{wapiti}}{14}
+\indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}|see{gnu}}{14}
+\indexentry{Lama glama@\bioname{Lama glama}|see{llama}}{14}
+\indexentry{Leopardus pardalis@\bioname{Leopardus pardalis}|see{ocelot}}{14}
+\indexentry{Leopardus wiedii@\bioname{Leopardus wiedii}|see{margay}}{14}
+\indexentry{Lynx canadensis@\bioname{Lynx canadensis}|see{lynx}}{14}
+\indexentry{Lynx rufus@\bioname{Lynx rufus}|see{bobcat}}{14}
+\indexentry{Marmota monax@\bioname{Marmota monax}|see{woodchuck}}{14}
+\indexentry{Panthera onca@\bioname{Panthera onca}|see{jaguar}}{14}
+\indexentry{Panthera tigris@\bioname{Panthera tigris}|see{tiger}}{14}
+\indexentry{Puma concolor@\bioname{Puma concolor}|see{cougar}}{14}
+\indexentry{Tragelaphus eurycerus@\bioname{Tragelaphus eurycerus}|see{bongo}}{14}
+\indexentry{Trichechus inunguis@\bioname{Trichechus inunguis}|see{manatee}}{14}
+\indexentry{Vicugna vicugna@\bioname{Vicugna vicugna}|see{vicu{\~n}a}}{14}
+\indexentry{African ungulate|see{gnu}}{14}
+\indexentry{ungulate|see{gnu}}{14}
+\indexentry{ungulate|see{impala}}{14}
+\indexentry{ungulate|see{kudu}}{14}
+\indexentry{ungulate|see{springbok}}{14}
+\indexentry{wildebeest|see{gnu}}{14}
+\indexentry{pachyderm|see{elephant}}{14}
+\indexentry{pachyderm|see{hippopotamus}}{14}
+\indexentry{pachyderm|see{rhinoceros}}{14}
+\indexentry{puma|see{cougar}}{14}
+\indexentry{rhino|see{rhinoceros}}{14}
+\indexentry{free software|seealso{GNU Project}}{14}
+\indexentry{gnu}{15}
+\indexentry{gnu!diet}{15}
+\indexentry{gnu!diet!wet season}{15}
+\indexentry{gnu!diet!dry season}{15}
+\indexentry{rhinodon}{15}
+\indexentry{rhinodont}{15}
+\indexentry{rhinoceros}{15}
+\indexentry{rhinoceros horn}{15}
+\indexentry{rhinocerite}{15}
+\indexentry{rhinestone}{15}
+\indexentry{Rhineland}{15}
+\indexentry{Rhinegrave}{15}
+\indexentry{Rhine berry}{15}
+\indexentry{rhea}{15}
+\indexentry{rat}{15}
+\indexentry{raccoon}{15}
+\indexentry{Queensland viper}{15}
+\indexentry{quail}{15}
+\indexentry{quagga}{15}
+\indexentry{puffin}{15}
+\indexentry{pterodactyl}{15}
+\indexentry{pronghorn (\bioname{Antilocapra americana})}{15}
+\indexentry{peccary}{15}
+\indexentry{panther}{15}
+\indexentry{panda}{15}
+\indexentry{opossum}{15}
+\indexentry{okapi}{15}
+\indexentry{octopus}{15}
+\indexentry{ocelot (\bioname{Leopardus pardalis})}{15}
+\indexentry{nilgai}{15}
+\indexentry{Neanderthal}{15}
+\indexentry{nautilus}{15}
+\indexentry{narwhal}{15}
+\indexentry{muskrat}{15}
+\indexentry{musk ox}{15}
+\indexentry{moose (\bioname{Alces alces})}{15}
+\indexentry{mastodon}{15}
+\indexentry{mastiff}{15}
+\indexentry{marmot (\bioname{Marmota marmota})}{15}
+\indexentry{margay (\bioname{Leopardus wiedii})}{15}
+\indexentry{manatee (\bioname{Trichechus inunguis})}{15}
+\indexentry{mammoth}{15}
+\indexentry{Alces alces@\bioname{Alces alces}}{15}
+\indexentry{Antilocapra americana@\bioname{Antilocapra americana}}{15}
+\indexentry{Marmota marmota@\bioname{Marmota marmota}}{15}
+\indexentry{gnu}{16}
+\indexentry{gnu!diet}{16}
+\indexentry{gnu!diet!wet season}{16}
+\indexentry{gnu!diet!dry season}{16}
+\indexentry{gnu!predators}{16}
+\indexentry{gnu!predators!crocodiles}{16}
+\indexentry{gnu!predators!hyenas}{16}
+\indexentry{gnu!predators!lions}{16}
+\indexentry{rhinodon}{16}
+\indexentry{rhinodont}{16}
+\indexentry{rhinoceros}{16}
+\indexentry{rhinoceros horn}{16}
+\indexentry{rhinocerite}{16}
+\indexentry{rhinestone}{16}
+\indexentry{Rhineland}{16}
+\indexentry{Rhinegrave}{16}
+\indexentry{Rhine berry}{16}
+\indexentry{rhea}{16}
+\indexentry{rat}{16}
+\indexentry{raccoon}{16}
+\indexentry{Queensland viper}{16}
+\indexentry{quail}{16}
+\indexentry{quagga}{16}
+\indexentry{puffin}{16}
+\indexentry{pterodactyl}{16}
+\indexentry{pronghorn (\bioname{Antilocapra americana})}{16}
+\indexentry{peccary}{16}
+\indexentry{panther}{16}
+\indexentry{panda}{16}
+\indexentry{opossum}{16}
+\indexentry{okapi}{16}
+\indexentry{octopus}{16}
+\indexentry{ocelot (\bioname{Leopardus pardalis})}{16}
+\indexentry{nilgai}{16}
+\indexentry{Neanderthal}{16}
+\indexentry{nautilus}{16}
+\indexentry{narwhal}{16}
+\indexentry{muskrat}{16}
+\indexentry{musk ox}{16}
+\indexentry{moose (\bioname{Alces alces})}{16}
+\indexentry{mastodon}{16}
+\indexentry{mastiff}{16}
+\indexentry{marmot (\bioname{Marmota marmota})}{16}
+\indexentry{margay (\bioname{Leopardus wiedii})}{16}
+\indexentry{manatee (\bioname{Trichechus inunguis})}{16}
+\indexentry{mammoth}{16}
+\indexentry{lynx (\bioname{Lynx canadensis})}{16}
+\indexentry{llama (\bioname{Lama glama})}{16}
+\indexentry{lion}{16}
+\indexentry{leopard}{16}
+\indexentry{lemur}{16}
+\indexentry{lemming}{16}
+\indexentry{kudu}{16}
+\indexentry{kangaroo}{16}
+\indexentry{koala}{16}
+\indexentry{jerboa}{16}
+\indexentry{jaguar (\bioname{Panthera onca})}{16}
+\indexentry{jackrabbit}{16}
+\indexentry{jackass}{16}
+\indexentry{jackal}{16}
+\indexentry{impala}{16}
+\indexentry{ibex}{16}
+\indexentry{hyena}{16}
+\indexentry{hippopotamus}{16}
+\indexentry{hartebeest}{16}
+\indexentry{giraffe}{16}
+\indexentry{gila monster}{16}
+\indexentry{gecko}{16}
+\indexentry{gazelle}{16}
+\indexentry{fox}{16}
+\indexentry{ferret}{16}
+\indexentry{elk (\bioname{Cervus canadensis})}{16}
+\indexentry{elephant}{16}
+\indexentry{deer}{16}
+\indexentry{crocodile}{16}
+\indexentry{coyote}{16}
+\indexentry{cougar (\bioname{Puma concolor})}{16}
+\indexentry{cheetah}{16}
+\indexentry{caribou}{16}
+\indexentry{bongo (\bioname{Tragelaphus eurycerus})}{16}
+\indexentry{bobcat (\bioname{Lynx rufus})}{16}
+\indexentry{bison}{16}
+\indexentry{beaver}{16}
+\indexentry{azymous (unleavened)}{16}
+\indexentry{aoudad}{16}
+\indexentry{antelope}{16}
+\indexentry{addax}{16}
+\indexentry{aardwolf}{16}
+\indexentry{aardvark}{16}
+\indexentry{Alces alces@\bioname{Alces alces}}{16}
+\indexentry{Antilocapra americana@\bioname{Antilocapra americana}}{16}
+\indexentry{Cervus canadensis@\bioname{Cervus canadensis}}{16}
+\indexentry{Lama glama@\bioname{Lama glama}}{16}
+\indexentry{Lynx canadensis@\bioname{Lynx canadensis}}{16}
+\indexentry{Marmota marmota@\bioname{Marmota marmota}}{16}
+\indexentry{Panthera onca@\bioname{Panthera onca}}{16}
+\indexentry{Tragelaphus eurycerus@\bioname{Tragelaphus eurycerus}}{16}
+\indexentry{gnu}{18}
+\indexentry{gnu!predators}{18}
+\indexentry{gnu!predators!crocodiles}{18}
+\indexentry{gnu!predators!hyenas}{18}
+\indexentry{gnu!predators!lions}{18}
+\indexentry{gnu!nonpredators!aardvarks}{18}
+\indexentry{gnu!nonpredators!blesbok}{18}
+\indexentry{gnu!nonpredators!elephants}{18}
+\indexentry{gnu!nonpredators!gazelles}{18}
+\indexentry{gnu!nonpredators!giraffes}{18}
+\indexentry{gnu!nonpredators!zebras}{18}
+\indexentry{zythum (ancient Egyptian malt beverage)}{18}
+\indexentry{zoetrope}{18}
+\indexentry{zebu (cattle) (\bioname{Bos taurus indicus})}{18}
+\indexentry{zebra}{18}
+\indexentry{yucca}{18}
+\indexentry{yak}{18}
+\indexentry{xylophone}{18}
+\indexentry{xylem (woody tissue of a plant)}{18}
+\indexentry{xenon (noble gas)}{18}
+\indexentry{X radiation}{18}
+\indexentry{X ray}{18}
+\indexentry{woodchuck (\bioname{Marmota monax})}{18}
+\indexentry{wolverine}{18}
+\indexentry{wolf}{18}
+\indexentry{white-tailed deer (\bioname{Odocoileus virginianus})}{18}
+\indexentry{whippet}{18}
+\indexentry{whale}{18}
+\indexentry{weasel}{18}
+\indexentry{water buffalo}{18}
+\indexentry{wart hog}{18}
+\indexentry{wapiti}{18}
+\indexentry{wanderoo}{18}
+\indexentry{walrus}{18}
+\indexentry{wallaby}{18}
+\indexentry{vulture}{18}
+\indexentry{vicuna (Vicugna vicugna)@vicu{\~n}a (\bioname{Vicugna vicugna})}{18}
+\indexentry{vampire bat}{18}
+\indexentry{unicorn}{18}
+\indexentry{turbot}{18}
+\indexentry{tuna}{18}
+\indexentry{toucan}{18}
+\indexentry{tiger (\bioname{Panthera tigris})}{18}
+\indexentry{tapir}{18}
+\indexentry{tangun}{18}
+\indexentry{swordfish}{18}
+\indexentry{suslik}{18}
+\indexentry{sunfish}{18}
+\indexentry{skunk}{18}
+\indexentry{skink}{18}
+\indexentry{sapajou}{18}
+\indexentry{salamander}{18}
+\indexentry{saber-toothed cat}{18}
+\indexentry{rhinodon}{18}
+\indexentry{rhinodont}{18}
+\indexentry{rhinoceros}{18}
+\indexentry{rhinoceros horn}{18}
+\indexentry{rhinocerite}{18}
+\indexentry{rhinestone}{18}
+\indexentry{Rhineland}{18}
+\indexentry{Rhinegrave}{18}
+\indexentry{Rhine berry}{18}
+\indexentry{rhea}{18}
+\indexentry{rat}{18}
+\indexentry{raccoon}{18}
+\indexentry{Queensland viper}{18}
+\indexentry{quail}{18}
+\indexentry{quagga}{18}
+\indexentry{puffin}{18}
+\indexentry{pterodactyl}{18}
+\indexentry{pronghorn (\bioname{Antilocapra americana})}{18}
+\indexentry{peccary}{18}
+\indexentry{panther}{18}
+\indexentry{panda}{18}
+\indexentry{opossum}{18}
+\indexentry{okapi}{18}
+\indexentry{octopus}{18}
+\indexentry{ocelot (\bioname{Leopardus pardalis})}{18}
+\indexentry{nilgai}{18}
+\indexentry{Neanderthal}{18}
+\indexentry{nautilus}{18}
+\indexentry{narwhal}{18}
+\indexentry{muskrat}{18}
+\indexentry{musk ox}{18}
+\indexentry{moose (\bioname{Alces alces})}{18}
+\indexentry{mastodon}{18}
+\indexentry{mastiff}{18}
+\indexentry{marmot (\bioname{Marmota marmota})}{18}
+\indexentry{margay (\bioname{Leopardus wiedii})}{18}
+\indexentry{manatee (\bioname{Trichechus inunguis})}{18}
+\indexentry{mammoth}{18}
+\indexentry{lynx (\bioname{Lynx canadensis})}{18}
+\indexentry{llama (\bioname{Lama glama})}{18}
+\indexentry{lion}{18}
+\indexentry{leopard}{18}
+\indexentry{lemur}{18}
+\indexentry{lemming}{18}
+\indexentry{kudu}{18}
+\indexentry{kangaroo}{18}
+\indexentry{koala}{18}
+\indexentry{jerboa}{18}
+\indexentry{jaguar (\bioname{Panthera onca})}{18}
+\indexentry{jackrabbit}{18}
+\indexentry{jackass}{18}
+\indexentry{jackal}{18}
+\indexentry{impala}{18}
+\indexentry{ibex}{18}
+\indexentry{hyena}{18}
+\indexentry{hippopotamus}{18}
+\indexentry{hartebeest}{18}
+\indexentry{giraffe}{18}
+\indexentry{gila monster}{18}
+\indexentry{gecko}{18}
+\indexentry{gazelle}{18}
+\indexentry{fox}{18}
+\indexentry{ferret}{18}
+\indexentry{elk (\bioname{Cervus canadensis})}{18}
+\indexentry{elephant}{18}
+\indexentry{deer}{18}
+\indexentry{crocodile}{18}
+\indexentry{coyote}{18}
+\indexentry{cougar (\bioname{Puma concolor})}{18}
+\indexentry{cheetah}{18}
+\indexentry{caribou}{18}
+\indexentry{bongo (\bioname{Tragelaphus eurycerus})}{18}
+\indexentry{bobcat (\bioname{Lynx rufus})}{18}
+\indexentry{bison}{18}
+\indexentry{beaver}{18}
+\indexentry{azymous (unleavened)}{18}
+\indexentry{aoudad}{18}
+\indexentry{antelope}{18}
+\indexentry{addax}{18}
+\indexentry{aardwolf}{18}
+\indexentry{aardvark}{18}
+\indexentry{Alces alces@\bioname{Alces alces}}{18}
+\indexentry{Antilocapra americana@\bioname{Antilocapra americana}}{18}
+\indexentry{Bos taurus indicus@\bioname{Bos taurus indicus}}{18}
+\indexentry{Cervus canadensis@\bioname{Cervus canadensis}}{18}
+\indexentry{Lama glama@\bioname{Lama glama}}{18}
+\indexentry{Lynx canadensis@\bioname{Lynx canadensis}}{18}
+\indexentry{Lynx rufus@\bioname{Lynx rufus}}{18}
+\indexentry{Marmota monax@\bioname{Marmota monax}}{18}
+\indexentry{Marmota marmota@\bioname{Marmota marmota}}{18}
+\indexentry{Odocoileus virginianus@\bioname{Odocoileus virginianus}}{18}
+\indexentry{Panthera onca@\bioname{Panthera onca}}{18}
+\indexentry{Panthera tigris@\bioname{Panthera tigris}}{18}
+\indexentry{Puma concolor@\bioname{Puma concolor}}{18}
+\indexentry{Tragelaphus eurycerus@\bioname{Tragelaphus eurycerus}}{18}
+\indexentry{Vicugna vicugna@\bioname{Vicugna vicugna}}{18}
+\indexentry{gnu hair}{19}
+\indexentry{gnu  hair}{19}
+\indexentry{ gnu  hair}{19}
+\indexentry{ gnu hair }{19}
+\indexentry{E. coli bacterium@\bioname{E. coli} bacterium}{19}
+\indexentry{GNU Project}{19}
+\indexentry{gnu}{19}
+\indexentry{gnu!hair}{19}
+\indexentry{gnu!hair!color}{19}
+\indexentry{gnu!hair!DNA analysis}{19}
+\indexentry{gnu!hair!texture}{19}
+\indexentry{gnu!hair!thickness}{19}
+\indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}}{19}
+\indexentry{gnu hair}{20}
+\indexentry{gnu  hair}{20}
+\indexentry{ gnu  hair}{20}
+\indexentry{ gnu hair }{20}
+\indexentry{E. coli bacterium@\bioname{E. coli} bacterium}{20}
+\indexentry{GNU Project}{20}
+\indexentry{gnu}{20}
+\indexentry{gnu!diet}{20}
+\indexentry{gnu!diet!wet season}{20}
+\indexentry{gnu!diet!dry season}{20}
+\indexentry{gnu!predators}{20}
+\indexentry{gnu!predators!crocodiles}{20}
+\indexentry{gnu!predators!hyenas}{20}
+\indexentry{gnu!predators!lions}{20}
+\indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}}{20}
+\indexentry{Lovelace, Lady Augusta Ada (1815--1852)|mainpage}{23}
+\indexentry{Babbage, Charles (1791--1871)|mainpage}{23}
+\indexentry{transform}{23}
+\indexentry{gnu hair}{23}
+\indexentry{gnu  hair}{23}
+\indexentry{ gnu  hair}{23}
+\indexentry{ gnu hair }{23}
+\indexentry{E. coli bacterium@\bioname{E. coli} bacterium}{23}
+\indexentry{GNU Project|mainpage}{23}
+\indexentry{gnu|mainpage}{23}
+\indexentry{gnu!diet}{23}
+\indexentry{gnu!diet!wet season}{23}
+\indexentry{gnu!diet!dry season}{23}
+\indexentry{gnu!hair}{23}
+\indexentry{gnu!hair!color}{23}
+\indexentry{gnu!hair!DNA analysis}{23}
+\indexentry{gnu!hair!texture}{23}
+\indexentry{gnu!hair!thickness}{23}
+\indexentry{gnu!predators}{23}
+\indexentry{gnu!predators!crocodiles}{23}
+\indexentry{gnu!predators!hyenas}{23}
+\indexentry{gnu!predators!lions}{23}
+\indexentry{Connochaetes gnou@\bioname{Connochaetes gnou}}{23}
+\indexentry{DCT|see{discrete cosine transform}}{26}
+\indexentry{DWT|see{discrete wavelet transform}}{26}
+\indexentry{Borel measure ($\mu$)}{26}
+\indexentry{mu@$\mu$ (mu)|see{Borel measure}}{26}
+\indexentry{Escherichia coli@\bioname{Escherichia coli}|see{E. coli}}{26}
+\indexentry{transform|seealso{Discrete DCT Transform}}{26}
+\indexentry{transform|seealso{Fast Fourier Transform}}{26}

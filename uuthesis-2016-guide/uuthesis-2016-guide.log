@@ -1,0 +1,373 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.3.30)  4 APR 2016 17:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**uuthesis-2016-guide.ltx
+(./uuthesis-2016-guide.ltx
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./uuthesis-2016-guide.sty
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/tex-gyre/tgbonum.sty
+Package: tgbonum 2009/09/27 v1.2 TeX Gyre Bonum as default roman family
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/uumath/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(/usr/uumath/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/uumath/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 143.
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+(./coloralias.sty
+Package: coloralias 2004/06/25 v0.00 Support for colorname aliases
+) (./rgb.sty
+Package color Info: Redefining color black on input line 27.
+Package color Info: Redefining color blue on input line 33.
+Package color Info: Redefining color cyan on input line 75.
+Package color Info: Redefining color green on input line 261.
+Package color Info: Redefining color magenta on input line 457.
+Package color Info: Redefining color red on input line 559.
+Package color Info: Redefining color white on input line 654.
+Package color Info: Redefining color yellow on input line 661.
+)
+Package hocbook Info: Redefining color filecolor on input line 23.
+) (./bibnames.sty
+This is bibnames.sty, Version 1.04 <13 June 1992>
+(/usr/uumath/texlive/2016/texmf-dist/tex/generic/beebe/texnames.sty
+This is texnames.sty, Version 1.10 <02 March 1998>
+)) (./uuthesis-2016-guide.aux)
+\openout1 = `uuthesis-2016-guide.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for OT1+qbk on input line 22.
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/tex-gyre/ot1qbk.fd
+File: ot1qbk.fd 2009/09/25 v1.2 font definition file for OT1/qbk
+)
+(/usr/uumath/texlive/2016/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen103
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen104
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 26.
+ (./uuthesis-2016-guide.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `uuthesis-2016-guide.toc'.
+
+LaTeX Font Info:    Try loading font information for OT1+ntxtt on input line 46
+.
+
+(/usr/uumath/texlive/2016/texmf-dist/tex/latex/newtx/ot1ntxtt.fd
+File: ot1ntxtt.fd 2012/04/20 v3.1
+) [1
+
+{/usr/uumath/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 103.
+
+
+LaTeX Font Warning: Font shape `OT1/qbk/m/sl' in size <10> not available
+(Font)              Font shape `OT1/qbk/m/it' tried instead on input line 107.
+
+[2]
+
+LaTeX Font Warning: Font shape `OT1/qbk/m/sl' in size <7> not available
+(Font)              Font shape `OT1/qbk/m/it' tried instead on input line 159.
+
+[3] [4]
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 293--293
+[]\OT1/ntxtt/m/n/10 \departmentchair        {Petrus Marcus Aurelius Featherston
+e-Hough}[] 
+ []
+
+[5]
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 293--293
+[]\OT1/ntxtt/m/n/10 \setcounter {page}     {2} % UofU demands abstract on p. ii
+i: start one lower[] 
+ []
+
+
+Overfull \hbox (38.24889pt too wide) in paragraph at lines 293--293
+[]\OT1/ntxtt/m/n/10 \maintext       % Start normal page numbering: parts and ch
+apters follow.[] 
+ []
+
+[6]
+Overfull \hbox (1.70761pt too wide) in paragraph at lines 340--342
+[]\OT1/qbk/m/n/10 In both com-mands, col-ors are spec-i-fied by name, and we sh
+ow shortly
+ []
+
+
+Overfull \hbox (59.24883pt too wide) in paragraph at lines 367--367
+[]\OT1/ntxtt/m/n/10 \definecolor{utahheadingcolor} {rgb}  {0.700, 0.000, 0.000}
+ % darker Utah red[] 
+ []
+
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 367--367
+[]\OT1/ntxtt/m/n/10 \definecolor{utahtheoremcolor} {rgb}  {0.490, 0.149, 0.804}
+ % purple4[] 
+ []
+
+[7]
+LaTeX Font Info:    Try loading font information for OMS+qbk on input line 399.
+
+LaTeX Font Info:    No file OMSqbk.fd. on input line 399.
+
+
+LaTeX Font Warning: Font shape `OMS/qbk/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 399.
+
+[8]
+
+LaTeX Font Warning: Font shape `OT1/qbk/m/sl' in size <9> not available
+(Font)              Font shape `OT1/qbk/m/it' tried instead on input line 481.
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 513--513
+[]\OT1/ntxtt/m/n/10 In the figure with green lizards, ...  % BAD: where is that
+ figure?[] 
+ []
+
+
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 513--513
+[]\OT1/ntxtt/m/n/10 In Figure 3, ...                       % STILL BAD: 3 is a 
+magic number[] 
+ []
+
+
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 513--513
+[]                                       \OT1/ntxtt/m/n/10 % that is likely to 
+be wrong the[] 
+ []
+
+
+Overfull \hbox (48.74886pt too wide) in paragraph at lines 513--513
+[]                                       \OT1/ntxtt/m/n/10 % next time you upda
+te the document![] 
+ []
+
+
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 513--513
+[]\OT1/ntxtt/m/n/10 In Figure \ref{green-lizards}, ...     % GOOD: but may be i
+nconsistent[] 
+ []
+
+[9]
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 513--513
+[]\OT1/ntxtt/m/n/10 In \figref{green-lizards}, ...         % BETTER: uniform no
+tation and[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 513--513
+[]                                       \OT1/ntxtt/m/n/10 % label namespace pr
+otection[] 
+ []
+
+
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 535--535
+[]\OT1/ntxtt/m/n/10 \newcommand {\figref}      [1] {Figure~\ref{fig:#1} \vpager
+ef{fig:#1}}[] 
+ []
+
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 535--535
+[]\OT1/ntxtt/m/n/10 In \figref{green-lizards}, ...         % BETTER: uniform no
+tation and[] 
+ []
+
+
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 535--535
+[]                                       \OT1/ntxtt/m/n/10 % label namespace pr
+otection[] 
+ []
+
+
+Overfull \hbox (17.24895pt too wide) in paragraph at lines 554--554
+[]\OT1/ntxtt/m/n/10 \newcommand {\figrefrange} [2] {Figure~\ref{fig:#1} \vpager
+ef{fig:#1}[] 
+ []
+
+
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 554--554
+[]                                \OT1/ntxtt/m/n/10 Figure~\ref{fig:#2} \vpager
+ef{fig:#2}}[] 
+ []
+
+[10]
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 643--643
+[]\OT1/ntxtt/m/n/10 \usepackage {pdfpages}            % support for multipage P
+DF inclusion[] 
+ []
+
+
+Overfull \hbox (32.9989pt too wide) in paragraph at lines 643--643
+[]\OT1/ntxtt/m/n/10 \usepackage {uuthesis-2016-f}     % usual fixups after stan
+dard packages[] 
+ []
+
+[11]
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 643--643
+[]\OT1/ntxtt/m/n/10 \usepackage {uuthesis-chapterbib} % support for chapter bib
+liographies[] 
+ []
+
+[12] [13] [14]
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 872--872
+[]\OT1/ntxtt/m/n/10 \makeindex               % comment out to suppress index ge
+neration[] 
+ []
+
+
+Overfull \hbox (1.499pt too wide) in paragraph at lines 872--872
+[]\OT1/ntxtt/m/n/10 \printindex              % index is normally last typeset m
+aterial[] 
+ []
+
+[15] [16]
+Overfull \hbox (1.499pt too wide) in paragraph at lines 944--944
+[]\OT1/ntxtt/m/n/10 \printindex              % index is normally last typeset m
+aterial[] 
+ []
+
+[17]
+Overfull \hbox (22.49893pt too wide) in paragraph at lines 1050--1050
+[]\OT1/ntxtt/m/n/10 \newcommand {\bioname} [1] {\emph{\color{blue}#1}\index{#1@
+\emph{#1}}}[] 
+ []
+
+[18]
+Overfull \hbox (6.74898pt too wide) in paragraph at lines 1063--1063
+[]\OT1/ntxtt/m/n/10 \index{sort-key-1@phrase-1!sort-key-2@phrase-2!sort-key-2@p
+hrase-2}[] 
+ []
+
+[19]
+Overfull \hbox (27.74892pt too wide) in paragraph at lines 1170--1170
+[]\OT1/ntxtt/m/n/10 grep mainpage thesis.idx | makeindex -c -i thesis.ist > mai
+n-thesis.ind[] 
+ []
+
+[20]
+Overfull \hbox (1.499pt too wide) in paragraph at lines 1205--1205
+[]\OT1/ntxtt/m/n/10 egrep -v 'bioname|booktitle|personalname|programname' thesi
+s.idx |[] 
+ []
+
+[21] [22] [23] (./uuthesis-2016-guide.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2085 strings out of 493028
+ 30156 string characters out of 6133611
+ 105993 words of memory out of 5000000
+ 5622 multiletter control sequences out of 15000+600000
+ 70044 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,8n,23p,321b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/uumath/texlive/2016/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/
+uumath/texlive/2016/texmf-dist/fonts/enc/dvips/tex-gyre/q-rm-sc.enc}</usr/uumat
+h/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/uuma
+th/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/uuma
+th/texlive/2016/texmf-dist/fonts/type1/public/tex-gyre/qbkb.pfb></usr/uumath/te
+xlive/2016/texmf-dist/fonts/type1/public/tex-gyre/qbkbi.pfb></usr/uumath/texliv
+e/2016/texmf-dist/fonts/type1/public/tex-gyre/qbkr.pfb></usr/uumath/texlive/201
+6/texmf-dist/fonts/type1/public/tex-gyre/qbkri.pfb></usr/uumath/texlive/2016/te
+xmf-dist/fonts/type1/public/txfonts/txtt.pfb>
+Output written on uuthesis-2016-guide.pdf (23 pages, 197040 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

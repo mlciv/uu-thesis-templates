@@ -1,0 +1,3187 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2017/dev) (preloaded format=pdflatex 2016.9.8)  12 MAR 2017 16:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sample-thesis-2.ltx
+(./sample-thesis-2.ltx
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./uuthesis2e.cls
+Document Class: uuthesis2e 1998/04/01 v1.3 University of Utah Thesis Class
+Document Style `uuthesis2e'. Version 1.8d - 6 Apr 1996
+(./Chicago.clo)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/base/size11.c
+lo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+Using 11pt option
+Option 11pt uses 5pt for 'tiny': microfilm needs 2mm.
+\footheight=\dimen102
+\numberofappendices=\count79
+\c@part=\count80
+\c@chapter=\count81
+\@titlesize=\dimen103
+\@maxsize=\dimen104
+\c@figure=\count82
+\c@table=\count83
+\descriptionmargin=\dimen105
+\minilength=\skip41
+\c@oldchapter=\count84
+\c@oldtocdepth=\count85
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amscls/amsthm
+.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks14
+\thm@bodyfont=\toks15
+\thm@headfont=\toks16
+\thm@notefont=\toks17
+\thm@headpunct=\toks18
+\thm@preskip=\skip42
+\thm@postskip=\skip43
+\thm@headsep=\skip44
+\dth@everypar=\toks19
+LaTeX Info: Redefining \qed on input line 264.
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/mathpa
+zo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+\c@section=\count86
+\c@subsection=\count87
+\c@paragraph=\count88
+\c@subsubsection=\count89
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amsmath/amsma
+th.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amsmath/amste
+xt.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amsmath/amsge
+n.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen106
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amsmath/amsbs
+y.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amsmath/amsop
+n.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks21
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks22
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks23
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (./amssymb.sty
+Package: amssymb 1996/11/03 v2.2b
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/amsfonts/amsf
+onts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldupright=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) (./bibnames.sty
+This is bibnames.sty, Version 1.04 <13 June 1992>
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/beebe/texna
+mes.sty
+This is texnames.sty, Version 1.10 <02 March 1998>
+)) (./citesort.sty
+\@minsofar=\count102
+\@min=\count103
+\@cite@temp=\count104
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics/grap
+hicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics/keyv
+al.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics/grap
+hics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics/trig
+.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics-cfg/
+graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics-def/
+pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/in
+fwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/lt
+xcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/base/graphpap
+.sty
+Package: graphpap 1994/08/09 v1.0c Standard LaTeX graphpap package (LL)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/tools/longtab
+le.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count106
+\LTcapwidth=\dimen117
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count107
+\LT@rows=\count108
+\c@LT@tables=\count109
+\c@LT@chunks=\count110
+\LT@p@ftn=\toks26
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/multirow/mult
+irow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count111
+\multirow@dima=\skip53
+\bigstrutjot=\dimen118
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pdfpages/pdfp
+ages.sty
+Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/base/ifthen.s
+ty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/tools/calc.st
+y
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen119
+\calc@Bdimen=\dimen120
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count114
+\calc@Cskip=\skip56
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/eso-pic/eso-p
+ic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/at
+begshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/ifpdf/ifpdf
+.sty
+Package: ifpdf 2016/04/04 v3.0 Provides the ifpdf switch
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/xcolor/xcolor
+.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics-cfg/
+color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen121
+\AM@pageheight=\dimen122
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pdfpages/pppd
+ftex.def
+File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box32
+\AM@global@opts=\toks27
+\AM@toc@title=\toks28
+\c@AM@survey=\count115
+\AM@templatesizebox=\box33
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/frontendl
+ayer/tikz.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/basiclaye
+r/pgf.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/utilities
+/pgfrcs.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen123
+\pgfutil@tempdimb=\dimen124
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfutil-common-lists.tex))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfutil-latex.def
+\pgfutil@abb=\box34
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/ms/everyshi.s
+ty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/basiclaye
+r/pgfcore.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/systemlay
+er/pgfsys.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen125
+\pgf@y=\dimen126
+\pgf@xa=\dimen127
+\pgf@ya=\dimen128
+\pgf@xb=\dimen129
+\pgf@yb=\dimen130
+\pgf@xc=\dimen131
+\pgf@yc=\dimen132
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count116
+\c@pgf@countb=\count117
+\c@pgf@countc=\count118
+\c@pgf@countd=\count119
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/systeml
+ayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count120
+\pgfsyssoftpath@bigbuffer@items=\count121
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/systeml
+ayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmath.code.tex
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathcalc.code.tex
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathutil.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathparser.code.tex
+\pgfmath@dimen=\dimen133
+\pgfmath@count=\count122
+\pgfmath@box=\box35
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.code.tex
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.basic.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.trigonometric.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.random.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.comparison.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.base.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.round.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.misc.code.tex)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfunctions.integerarithmetics.code.tex)))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count123
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen134
+\pgf@picmaxx=\dimen135
+\pgf@picminy=\dimen136
+\pgf@picmaxy=\dimen137
+\pgf@pathminx=\dimen138
+\pgf@pathmaxx=\dimen139
+\pgf@pathminy=\dimen140
+\pgf@pathmaxy=\dimen141
+\pgf@xx=\dimen142
+\pgf@xy=\dimen143
+\pgf@yx=\dimen144
+\pgf@yy=\dimen145
+\pgf@zx=\dimen146
+\pgf@zy=\dimen147
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen148
+\pgf@path@lasty=\dimen149
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen150
+\pgf@shorten@start@additional=\dimen151
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count124
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen152
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen153
+\pgf@pt@y=\dimen154
+\pgf@pt@temp=\dimen155
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen156
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen157
+\pgf@sys@shading@range@num=\count125
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box39
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/basicla
+yer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/modules
+/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box40
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/modules
+/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/compatibi
+lity/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen158
+\pgf@nodesepend=\dimen159
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/compatibi
+lity/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/utilities
+/pgffor.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/utilities
+/pgfkeys.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgfkeys.code.tex))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/pgf/math/pgfm
+ath.sty
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmath.code.tex))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/utiliti
+es/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/math/pg
+fmath.code.tex)
+\pgffor@iter=\dimen160
+\pgffor@skip=\dimen161
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/fronten
+dlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/librari
+es/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count126
+\pgfplotmarksize=\dimen162
+)
+\tikz@lastx=\dimen163
+\tikz@lasty=\dimen164
+\tikz@lastxsaved=\dimen165
+\tikz@lastysaved=\dimen166
+\tikzleveldistance=\dimen167
+\tikzsiblingdistance=\dimen168
+\tikz@figbox=\box41
+\tikz@figbox@bg=\box42
+\tikz@tempbox=\box43
+\tikz@tempbox@bg=\box44
+\tikztreelevel=\count127
+\tikznumberofchildren=\count128
+\tikznumberofcurrentchild=\count129
+\tikz@fig@count=\count130
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/modules
+/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count131
+\pgfmatrixcurrentcolumn=\count132
+\pgf@matrix@numberofcolumns=\count133
+)
+\tikz@expandcount=\count134
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/fronten
+dlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/fronten
+dlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/fronten
+dlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/modules
+/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen169
+\pgfdecoratedremainingdistance=\dimen170
+\pgfdecoratedinputsegmentcompleteddistance=\dimen171
+\pgfdecoratedinputsegmentremainingdistance=\dimen172
+\pgf@decorate@distancetomove=\dimen173
+\pgf@decorate@repeatstate=\count135
+\pgfdecorationsegmentamplitude=\dimen174
+\pgfdecorationsegmentlength=\dimen175
+)
+\tikz@lib@dec@box=\box45
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/pgf/librari
+es/decorations/pgflibrarydecorations.markings.code.tex))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/tools/variore
+f.sty
+Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
+\c@vrcnt=\count136
+) (./uuthesis-2016-h.sty
+Package: uuthesis-2016-h 2016/05/02 v1.08
+
+===============================================================================
+
+
+This is uuthesis-2016-h.sty version 1.08 <2 May 2016>
+
+===============================================================================
+
+(./dissertationapproval.sty)
+\uuthesis@chaptersectionspace=\dimen176
+) (./uuthesis-color-headings.sty
+Package: uuthesis-color-headings 2017/03/12 v1.09
+
+===============================================================================
+
+
+This is uuthesis-color-headings.sty version 1.09 <12 March 2017>
+
+WARNING: Color in theses is still experimental, and subject to approval by
+the University of Utah Thesis Office! One of their concerns is that color
+pages printed on black-and-white printers should not have text disappear
+because it is too light to see against a white paper background.
+===============================================================================
+
+(./rgb.sty)) (./coloralias.sty
+Package: coloralias 2004/06/25 v0.00 Support for colorname aliases
+)
+Package hocbook Info: Redefining color utahheadingcolor on input line 111.
+Package hocbook Info: Redefining color utahtheoremcolor on input line 112.
+ (./uuthesis-index.sty
+Package: uuthesis-index 2016/05/03 v1.01
+
+===============================================================================
+
+
+This is uuthesis-index.sty version 1.01 <3 May 2016>
+
+===============================================================================
+
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/base/makeidx.
+sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write4
+\openout4 = `sample-thesis-2.idx'.
+
+
+Writing index file sample-thesis-2.idx
+) (./uuthesis-chapterbib.sty
+Package: uuthesis-chapterbib 2016/04/25 v1.04
+
+===============================================================================
+
+
+This is uuthesis-chapterbib.sty version 1.04 <25 April 2016>
+
+===============================================================================
+
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/cite/chapterb
+ib.sty
+\c@inputfile=\count137
+Package: chapterbib 2010/09/18  v 1.17
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/defpattern
+.sty
+Package: defpattern 1994/10/12
+\actioncount=\count138
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-basic.s
+ty
+Package: fp-basic 1996/05/13
+\FP@xs=\count139
+\FP@xia=\count140
+\FP@xib=\count141
+\FP@xfa=\count142
+\FP@xfb=\count143
+\FP@rega=\count144
+\FP@regb=\count145
+\FP@regs=\count146
+\FP@times=\count147
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-addons.
+sty
+Package: fp-addons 1995/03/15
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-snap.st
+y
+Package: fp-snap 1995/04/05
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-trigo.s
+ty
+Package: fp-trigo 1995/04/14
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-random.
+sty
+Package: fp-random 1995/02/23
+\FPseed=\count148
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/fp/fp-eval.st
+y
+Package: fp-eval 1995/04/03
+))
+\uuchapterbib@chaptersectionspace=\dimen177
+\c@uuchapterbibsection=\count149
+\c@uuchapterbibsubsection=\count150
+\c@uuchapterbibsubsubsection=\count151
+\c@uuchapterbibfigure=\count152
+\c@uuchapterbibtable=\count153
+) (./mythesis.sty) (./sample-thesis-2.aux (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./chap4.aux) (./chap5.aux) (./appa.aux) (./appb.aux) (./appc.aux
+))
+\openout1 = `sample-thesis-2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 207.
+LaTeX Font Info:    ... okay on input line 207.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 207.
+
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/ot1ppl
+.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/context/base/supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count154
+\scratchdimen=\dimen178
+\scratchbox=\box46
+\nofMPsegments=\count155
+\nofMParguments=\count156
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count157
+\MPscratchDim=\dimen179
+\MPnumerator=\count158
+\makeMPintoPDFobject=\count159
+\everyMPtoPDFconversion=\toks42
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/pd
+ftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/if
+luatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/oberdiek/epst
+opdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/oberdiek/grfe
+xt.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/kv
+definekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/oberdiek/kvop
+tions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/kv
+setkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/oberdiek/et
+excmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/latexconfig/e
+pstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box47
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/oberdiek/pdfl
+scape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/graphics/lsca
+pe.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/generic/ifxetex/ifx
+etex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)) ABD: EveryShipout initializing macros
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 211.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 211
+.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/omlzpl
+m.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 211
+.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/omszpl
+m.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 211
+.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/omxzpl
+m.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 211
+.
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/ot1zpl
+m.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 211.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 211.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 211.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 211.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 211.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 211.
+
+Title.
+[-1
+
+{/usr/uumath/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 212.
+
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/omsppl
+.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+
+Copyright.
+[-1]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 213.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 213.
+ [2]
+
+Package xcolor Warning: Incompatible color definition on input line 215.
+
+(./abstract.tex)
+Abstract.
+[3]
+Dedication.
+[4]
+
+Package xcolor Warning: Incompatible color definition on input line 217.
+
+(./sample-thesis-2.toc [5])
+\tf@toc=\write5
+\openout5 = `sample-thesis-2.toc'.
+
+
+Contents.
+[6]
+
+Package xcolor Warning: Incompatible color definition on input line 218.
+
+List of Figures.
+(./sample-thesis-2.lof)
+\tf@lof=\write6
+\openout6 = `sample-thesis-2.lof'.
+
+ [7]
+
+Package xcolor Warning: Incompatible color definition on input line 219.
+
+List of Tables.
+(./sample-thesis-2.lot)
+\tf@lot=\write7
+\openout7 = `sample-thesis-2.lot'.
+
+ [8]
+
+Package xcolor Warning: Incompatible color definition on input line 228.
+
+Notation and Symbols.
+(./notation.tex) [9]
+
+Package xcolor Warning: Incompatible color definition on input line 238.
+
+Typesetting Experiments.
+(./samples.tex (./rgb.sty)
+
+Package xcolor Warning: Incompatible color definition on input line 23.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 35.
+
+
+Package xcolor Warning: Incompatible color definition on input line 41.
+
+
+LaTeX Warning: Citation `Lahiri:2002:ADA' in file `sample-thesis-2' on page x u
+ndefined on input line 56.
+
+
+LaTeX Warning: Citation `Hall:1994:PNE' in file `sample-thesis-2' on page x und
+efined on input line 70.
+
+LaTeX Font Info:    Try loading font information for U+fplmbb on input line 75.
+
+
+(/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/tex/latex/psnfss/ufplmb
+b.fd
+File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+
+Package xcolor Warning: Incompatible color definition on input line 105.
+
+
+Package xcolor Warning: Incompatible color definition on input line 110.
+
+
+Package xcolor Warning: Incompatible color definition on input line 131.
+
+
+Package xcolor Warning: Incompatible color definition on input line 163.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+
+Package xcolor Warning: Incompatible color definition on input line 213.
+
+
+Package xcolor Warning: Incompatible color definition on input line 215.
+
+
+Package xcolor Warning: Incompatible color definition on input line 216.
+
+
+Package xcolor Warning: Incompatible color definition on input line 219.
+
+
+Package xcolor Warning: Incompatible color definition on input line 221.
+
+
+Package xcolor Warning: Incompatible color definition on input line 232.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+[14]
+\openout2 = `chap1.aux'.
+
+ (./chap1.tex
+DEBUG: @chapter: arg 1 = [The First]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he First}]
+CHAPTER 1.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 10.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 10.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 10.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 10.
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+
+Package xcolor Warning: Incompatible color definition on input line 26.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 27.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+<fig1.pdf, id=62, 216.81pt x 72.27pt>
+File: fig1.pdf Graphic file (type pdf)
+ <use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 37.
+(pdftex.def)             Requested size: 216.80946pt x 72.2698pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 38.
+
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 44.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 44.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 12.50409pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 44.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 44.
+
+Package xcolor Warning: Incompatible color definition on input line 44.
+
+
+Package xcolor Warning: Incompatible color definition on input line 44.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 48.
+
+
+Package xcolor Warning: Incompatible color definition on input line 48.
+
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
+
+Package xcolor Warning: Incompatible color definition on input line 56.
+
+
+Package xcolor Warning: Incompatible color definition on input line 56.
+
+
+Package xcolor Warning: Incompatible color definition on input line 60.
+
+
+Package xcolor Warning: Incompatible color definition on input line 60.
+
+
+Package xcolor Warning: Incompatible color definition on input line 66.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[2 <./fig1.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 70.
+
+
+Package xcolor Warning: Incompatible color definition on input line 72.
+
+
+Package xcolor Warning: Incompatible color definition on input line 72.
+
+
+Package xcolor Warning: Incompatible color definition on input line 82.
+
+<fig2.pdf, id=73, 216.81pt x 72.27pt>
+File: fig2.pdf Graphic file (type pdf)
+ <use fig2.pdf>
+Package pdftex.def Info: fig2.pdf used on input line 87.
+(pdftex.def)             Requested size: 216.80946pt x 72.2698pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 88.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[3 <./fig2.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 101.
+
+
+Underfull \vbox (badness 5490) has occurred while \output is active []
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [4]
+
+Package xcolor Warning: Incompatible color definition on input line 147.
+
+
+Package xcolor Warning: Incompatible color definition on input line 147.
+
+
+Package xcolor Warning: Incompatible color definition on input line 151.
+
+
+Package xcolor Warning: Incompatible color definition on input line 182.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[5]
+
+Package xcolor Warning: Incompatible color definition on input line 236.
+
+
+Package xcolor Warning: Incompatible color definition on input line 236.
+
+
+Overfull \hbox (1.4408pt too wide) in paragraph at lines 240--243
+[]\OT1/ppl/m/n/10.95 The Free Soft-ware Foun-da-tion of-fers al-most 300 soft-w
+are pack-ages, most eas-ily portable
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 245.
+
+
+Package xcolor Warning: Incompatible color definition on input line 246.
+
+
+Package xcolor Warning: Incompatible color definition on input line 247.
+
+
+Package xcolor Warning: Incompatible color definition on input line 248.
+
+
+Package xcolor Warning: Incompatible color definition on input line 249.
+
+
+Package xcolor Warning: Incompatible color definition on input line 250.
+
+
+Package xcolor Warning: Incompatible color definition on input line 251.
+
+
+Package xcolor Warning: Incompatible color definition on input line 252.
+
+
+Package xcolor Warning: Incompatible color definition on input line 253.
+
+
+Package xcolor Warning: Incompatible color definition on input line 254.
+
+
+Package xcolor Warning: Incompatible color definition on input line 255.
+
+
+Package xcolor Warning: Incompatible color definition on input line 256.
+
+
+Package xcolor Warning: Incompatible color definition on input line 257.
+
+
+Package xcolor Warning: Incompatible color definition on input line 258.
+
+
+Package xcolor Warning: Incompatible color definition on input line 259.
+
+
+Package xcolor Warning: Incompatible color definition on input line 260.
+
+
+Package xcolor Warning: Incompatible color definition on input line 261.
+
+
+Package xcolor Warning: Incompatible color definition on input line 262.
+
+
+Package xcolor Warning: Incompatible color definition on input line 263.
+
+
+Package xcolor Warning: Incompatible color definition on input line 264.
+
+
+Package xcolor Warning: Incompatible color definition on input line 265.
+
+
+Package xcolor Warning: Incompatible color definition on input line 266.
+
+
+Package xcolor Warning: Incompatible color definition on input line 267.
+
+
+Package xcolor Warning: Incompatible color definition on input line 268.
+
+
+Package xcolor Warning: Incompatible color definition on input line 269.
+
+
+Package xcolor Warning: Incompatible color definition on input line 270.
+
+
+Package xcolor Warning: Incompatible color definition on input line 271.
+
+
+Package xcolor Warning: Incompatible color definition on input line 272.
+
+
+Package xcolor Warning: Incompatible color definition on input line 273.
+
+
+Package xcolor Warning: Incompatible color definition on input line 274.
+
+
+Package xcolor Warning: Incompatible color definition on input line 275.
+
+
+Package xcolor Warning: Incompatible color definition on input line 276.
+
+
+Package xcolor Warning: Incompatible color definition on input line 277.
+
+
+Package xcolor Warning: Incompatible color definition on input line 278.
+
+
+Package xcolor Warning: Incompatible color definition on input line 279.
+
+
+Package xcolor Warning: Incompatible color definition on input line 280.
+
+
+Package xcolor Warning: Incompatible color definition on input line 281.
+
+
+Package xcolor Warning: Incompatible color definition on input line 282.
+
+
+Package xcolor Warning: Incompatible color definition on input line 283.
+
+
+Package xcolor Warning: Incompatible color definition on input line 284.
+
+
+Package xcolor Warning: Incompatible color definition on input line 285.
+
+
+Package xcolor Warning: Incompatible color definition on input line 286.
+
+
+Package xcolor Warning: Incompatible color definition on input line 287.
+
+
+Package xcolor Warning: Incompatible color definition on input line 288.
+
+
+Package xcolor Warning: Incompatible color definition on input line 289.
+
+
+Package xcolor Warning: Incompatible color definition on input line 290.
+
+
+Package xcolor Warning: Incompatible color definition on input line 291.
+
+
+Package xcolor Warning: Incompatible color definition on input line 292.
+
+
+Package xcolor Warning: Incompatible color definition on input line 293.
+
+
+Package xcolor Warning: Incompatible color definition on input line 294.
+
+
+Package xcolor Warning: Incompatible color definition on input line 295.
+
+
+Package xcolor Warning: Incompatible color definition on input line 296.
+
+
+Package xcolor Warning: Incompatible color definition on input line 297.
+
+
+Package xcolor Warning: Incompatible color definition on input line 298.
+
+
+Package xcolor Warning: Incompatible color definition on input line 299.
+
+
+Package xcolor Warning: Incompatible color definition on input line 300.
+
+
+Package xcolor Warning: Incompatible color definition on input line 301.
+
+
+Package xcolor Warning: Incompatible color definition on input line 302.
+
+
+Package xcolor Warning: Incompatible color definition on input line 303.
+
+
+Package xcolor Warning: Incompatible color definition on input line 304.
+
+
+Package xcolor Warning: Incompatible color definition on input line 305.
+
+
+Package xcolor Warning: Incompatible color definition on input line 306.
+
+
+Package xcolor Warning: Incompatible color definition on input line 307.
+
+
+Package xcolor Warning: Incompatible color definition on input line 308.
+
+
+Package xcolor Warning: Incompatible color definition on input line 309.
+
+
+Package xcolor Warning: Incompatible color definition on input line 310.
+
+
+Package xcolor Warning: Incompatible color definition on input line 311.
+
+
+Package xcolor Warning: Incompatible color definition on input line 312.
+
+
+Package xcolor Warning: Incompatible color definition on input line 313.
+
+
+Package xcolor Warning: Incompatible color definition on input line 314.
+
+
+Package xcolor Warning: Incompatible color definition on input line 315.
+
+
+Package xcolor Warning: Incompatible color definition on input line 316.
+
+
+Package xcolor Warning: Incompatible color definition on input line 317.
+
+
+Package xcolor Warning: Incompatible color definition on input line 318.
+
+
+Package xcolor Warning: Incompatible color definition on input line 319.
+
+
+Package xcolor Warning: Incompatible color definition on input line 320.
+
+
+Package xcolor Warning: Incompatible color definition on input line 321.
+
+
+Package xcolor Warning: Incompatible color definition on input line 322.
+
+
+Package xcolor Warning: Incompatible color definition on input line 323.
+
+
+Package xcolor Warning: Incompatible color definition on input line 324.
+
+
+Package xcolor Warning: Incompatible color definition on input line 325.
+
+
+Package xcolor Warning: Incompatible color definition on input line 326.
+
+
+Package xcolor Warning: Incompatible color definition on input line 327.
+
+
+Package xcolor Warning: Incompatible color definition on input line 328.
+
+
+Package xcolor Warning: Incompatible color definition on input line 329.
+
+
+Package xcolor Warning: Incompatible color definition on input line 330.
+
+
+Package xcolor Warning: Incompatible color definition on input line 331.
+
+
+Package xcolor Warning: Incompatible color definition on input line 332.
+
+
+Package xcolor Warning: Incompatible color definition on input line 333.
+
+
+Package xcolor Warning: Incompatible color definition on input line 334.
+
+
+Package xcolor Warning: Incompatible color definition on input line 335.
+
+
+Package xcolor Warning: Incompatible color definition on input line 336.
+
+
+Package xcolor Warning: Incompatible color definition on input line 337.
+
+
+Package xcolor Warning: Incompatible color definition on input line 338.
+
+
+Package xcolor Warning: Incompatible color definition on input line 339.
+
+
+Package xcolor Warning: Incompatible color definition on input line 340.
+
+
+Package xcolor Warning: Incompatible color definition on input line 341.
+
+
+Package xcolor Warning: Incompatible color definition on input line 342.
+
+
+Package xcolor Warning: Incompatible color definition on input line 343.
+
+
+Package xcolor Warning: Incompatible color definition on input line 344.
+
+
+Package xcolor Warning: Incompatible color definition on input line 345.
+
+
+Package xcolor Warning: Incompatible color definition on input line 346.
+
+
+Package xcolor Warning: Incompatible color definition on input line 347.
+
+
+Package xcolor Warning: Incompatible color definition on input line 348.
+
+
+Package xcolor Warning: Incompatible color definition on input line 349.
+
+
+Package xcolor Warning: Incompatible color definition on input line 350.
+
+
+Package xcolor Warning: Incompatible color definition on input line 351.
+
+
+Package xcolor Warning: Incompatible color definition on input line 352.
+
+
+Package xcolor Warning: Incompatible color definition on input line 353.
+
+
+Package xcolor Warning: Incompatible color definition on input line 354.
+
+
+Package xcolor Warning: Incompatible color definition on input line 355.
+
+
+Package xcolor Warning: Incompatible color definition on input line 356.
+
+
+Package xcolor Warning: Incompatible color definition on input line 357.
+
+
+Package xcolor Warning: Incompatible color definition on input line 358.
+
+
+Package xcolor Warning: Incompatible color definition on input line 359.
+
+
+Package xcolor Warning: Incompatible color definition on input line 360.
+
+
+Package xcolor Warning: Incompatible color definition on input line 361.
+
+
+Package xcolor Warning: Incompatible color definition on input line 362.
+
+
+Package xcolor Warning: Incompatible color definition on input line 363.
+
+
+Package xcolor Warning: Incompatible color definition on input line 364.
+
+
+Package xcolor Warning: Incompatible color definition on input line 365.
+
+
+Package xcolor Warning: Incompatible color definition on input line 366.
+
+
+Package xcolor Warning: Incompatible color definition on input line 367.
+
+
+Package xcolor Warning: Incompatible color definition on input line 368.
+
+
+Package xcolor Warning: Incompatible color definition on input line 369.
+
+
+Package xcolor Warning: Incompatible color definition on input line 370.
+
+
+Package xcolor Warning: Incompatible color definition on input line 371.
+
+
+Package xcolor Warning: Incompatible color definition on input line 372.
+
+
+Package xcolor Warning: Incompatible color definition on input line 373.
+
+
+Package xcolor Warning: Incompatible color definition on input line 374.
+
+
+Package xcolor Warning: Incompatible color definition on input line 375.
+
+
+Package xcolor Warning: Incompatible color definition on input line 376.
+
+
+Package xcolor Warning: Incompatible color definition on input line 377.
+
+
+Package xcolor Warning: Incompatible color definition on input line 378.
+
+
+Package xcolor Warning: Incompatible color definition on input line 379.
+
+
+Package xcolor Warning: Incompatible color definition on input line 380.
+
+
+Package xcolor Warning: Incompatible color definition on input line 381.
+
+
+Package xcolor Warning: Incompatible color definition on input line 382.
+
+
+Package xcolor Warning: Incompatible color definition on input line 383.
+
+
+Package xcolor Warning: Incompatible color definition on input line 384.
+
+
+Package xcolor Warning: Incompatible color definition on input line 385.
+
+
+Package xcolor Warning: Incompatible color definition on input line 386.
+
+
+Package xcolor Warning: Incompatible color definition on input line 387.
+
+
+Package xcolor Warning: Incompatible color definition on input line 388.
+
+
+Package xcolor Warning: Incompatible color definition on input line 389.
+
+
+Package xcolor Warning: Incompatible color definition on input line 390.
+
+
+Package xcolor Warning: Incompatible color definition on input line 391.
+
+
+Package xcolor Warning: Incompatible color definition on input line 392.
+
+
+Package xcolor Warning: Incompatible color definition on input line 393.
+
+
+Package xcolor Warning: Incompatible color definition on input line 394.
+
+
+Package xcolor Warning: Incompatible color definition on input line 395.
+
+
+Package xcolor Warning: Incompatible color definition on input line 396.
+
+
+Package xcolor Warning: Incompatible color definition on input line 397.
+
+
+Package xcolor Warning: Incompatible color definition on input line 398.
+
+
+Package xcolor Warning: Incompatible color definition on input line 399.
+
+
+Package xcolor Warning: Incompatible color definition on input line 400.
+
+
+Package xcolor Warning: Incompatible color definition on input line 401.
+
+
+Package xcolor Warning: Incompatible color definition on input line 402.
+
+
+Package xcolor Warning: Incompatible color definition on input line 403.
+
+
+Package xcolor Warning: Incompatible color definition on input line 404.
+
+
+Package xcolor Warning: Incompatible color definition on input line 405.
+
+
+Package xcolor Warning: Incompatible color definition on input line 406.
+
+
+Package xcolor Warning: Incompatible color definition on input line 407.
+
+
+Package xcolor Warning: Incompatible color definition on input line 408.
+
+
+Package xcolor Warning: Incompatible color definition on input line 409.
+
+
+Package xcolor Warning: Incompatible color definition on input line 410.
+
+
+Package xcolor Warning: Incompatible color definition on input line 411.
+
+
+Package xcolor Warning: Incompatible color definition on input line 412.
+
+
+Package xcolor Warning: Incompatible color definition on input line 413.
+
+
+Package xcolor Warning: Incompatible color definition on input line 414.
+
+
+Package xcolor Warning: Incompatible color definition on input line 415.
+
+
+Package xcolor Warning: Incompatible color definition on input line 416.
+
+
+Package xcolor Warning: Incompatible color definition on input line 417.
+
+
+Package xcolor Warning: Incompatible color definition on input line 418.
+
+
+Package xcolor Warning: Incompatible color definition on input line 419.
+
+
+Package xcolor Warning: Incompatible color definition on input line 420.
+
+
+Package xcolor Warning: Incompatible color definition on input line 421.
+
+
+Package xcolor Warning: Incompatible color definition on input line 422.
+
+
+Package xcolor Warning: Incompatible color definition on input line 423.
+
+
+Package xcolor Warning: Incompatible color definition on input line 424.
+
+
+Package xcolor Warning: Incompatible color definition on input line 425.
+
+
+Package xcolor Warning: Incompatible color definition on input line 426.
+
+
+Package xcolor Warning: Incompatible color definition on input line 427.
+
+
+Package xcolor Warning: Incompatible color definition on input line 428.
+
+
+Package xcolor Warning: Incompatible color definition on input line 429.
+
+
+Package xcolor Warning: Incompatible color definition on input line 430.
+
+
+Package xcolor Warning: Incompatible color definition on input line 431.
+
+
+Package xcolor Warning: Incompatible color definition on input line 432.
+
+
+Package xcolor Warning: Incompatible color definition on input line 433.
+
+
+Package xcolor Warning: Incompatible color definition on input line 434.
+
+
+Package xcolor Warning: Incompatible color definition on input line 435.
+
+
+Package xcolor Warning: Incompatible color definition on input line 436.
+
+
+Package xcolor Warning: Incompatible color definition on input line 437.
+
+
+Package xcolor Warning: Incompatible color definition on input line 438.
+
+
+Package xcolor Warning: Incompatible color definition on input line 439.
+
+
+Package xcolor Warning: Incompatible color definition on input line 440.
+
+
+Package xcolor Warning: Incompatible color definition on input line 441.
+
+
+Package xcolor Warning: Incompatible color definition on input line 442.
+
+
+Package xcolor Warning: Incompatible color definition on input line 443.
+
+
+Package xcolor Warning: Incompatible color definition on input line 444.
+
+
+Package xcolor Warning: Incompatible color definition on input line 445.
+
+
+Package xcolor Warning: Incompatible color definition on input line 446.
+
+
+Package xcolor Warning: Incompatible color definition on input line 447.
+
+
+Package xcolor Warning: Incompatible color definition on input line 448.
+
+
+Package xcolor Warning: Incompatible color definition on input line 449.
+
+
+Package xcolor Warning: Incompatible color definition on input line 450.
+
+
+Package xcolor Warning: Incompatible color definition on input line 451.
+
+
+Package xcolor Warning: Incompatible color definition on input line 452.
+
+
+Package xcolor Warning: Incompatible color definition on input line 453.
+
+
+Package xcolor Warning: Incompatible color definition on input line 454.
+
+
+Package xcolor Warning: Incompatible color definition on input line 455.
+
+
+Package xcolor Warning: Incompatible color definition on input line 456.
+
+
+Package xcolor Warning: Incompatible color definition on input line 457.
+
+
+Package xcolor Warning: Incompatible color definition on input line 458.
+
+
+Package xcolor Warning: Incompatible color definition on input line 459.
+
+
+Package xcolor Warning: Incompatible color definition on input line 460.
+
+
+Package xcolor Warning: Incompatible color definition on input line 461.
+
+
+Package xcolor Warning: Incompatible color definition on input line 462.
+
+
+Package xcolor Warning: Incompatible color definition on input line 463.
+
+
+Package xcolor Warning: Incompatible color definition on input line 464.
+
+
+Package xcolor Warning: Incompatible color definition on input line 465.
+
+
+Package xcolor Warning: Incompatible color definition on input line 466.
+
+
+Package xcolor Warning: Incompatible color definition on input line 467.
+
+
+Package xcolor Warning: Incompatible color definition on input line 468.
+
+
+Package xcolor Warning: Incompatible color definition on input line 469.
+
+
+Package xcolor Warning: Incompatible color definition on input line 470.
+
+
+Package xcolor Warning: Incompatible color definition on input line 471.
+
+
+Package xcolor Warning: Incompatible color definition on input line 472.
+
+
+Package xcolor Warning: Incompatible color definition on input line 473.
+
+
+Package xcolor Warning: Incompatible color definition on input line 474.
+
+
+Package xcolor Warning: Incompatible color definition on input line 475.
+
+
+Package xcolor Warning: Incompatible color definition on input line 476.
+
+
+Package xcolor Warning: Incompatible color definition on input line 477.
+
+
+Package xcolor Warning: Incompatible color definition on input line 478.
+
+
+Package xcolor Warning: Incompatible color definition on input line 479.
+
+
+Package xcolor Warning: Incompatible color definition on input line 480.
+
+
+Package xcolor Warning: Incompatible color definition on input line 481.
+
+
+Package xcolor Warning: Incompatible color definition on input line 482.
+
+
+Package xcolor Warning: Incompatible color definition on input line 483.
+
+
+Package xcolor Warning: Incompatible color definition on input line 484.
+
+
+Package xcolor Warning: Incompatible color definition on input line 485.
+
+
+Package xcolor Warning: Incompatible color definition on input line 486.
+
+
+Package xcolor Warning: Incompatible color definition on input line 487.
+
+
+Package xcolor Warning: Incompatible color definition on input line 488.
+
+
+Package xcolor Warning: Incompatible color definition on input line 489.
+
+
+Package xcolor Warning: Incompatible color definition on input line 490.
+
+
+Package xcolor Warning: Incompatible color definition on input line 491.
+
+
+Package xcolor Warning: Incompatible color definition on input line 492.
+
+
+Package xcolor Warning: Incompatible color definition on input line 493.
+
+
+Package xcolor Warning: Incompatible color definition on input line 494.
+
+
+Package xcolor Warning: Incompatible color definition on input line 495.
+
+
+Package xcolor Warning: Incompatible color definition on input line 496.
+
+
+Package xcolor Warning: Incompatible color definition on input line 497.
+
+
+Package xcolor Warning: Incompatible color definition on input line 498.
+
+
+Package xcolor Warning: Incompatible color definition on input line 499.
+
+
+Package xcolor Warning: Incompatible color definition on input line 500.
+
+
+Package xcolor Warning: Incompatible color definition on input line 501.
+
+
+Package xcolor Warning: Incompatible color definition on input line 502.
+
+
+Package xcolor Warning: Incompatible color definition on input line 503.
+
+
+Package xcolor Warning: Incompatible color definition on input line 504.
+
+
+Package xcolor Warning: Incompatible color definition on input line 505.
+
+
+Package xcolor Warning: Incompatible color definition on input line 506.
+
+
+Package xcolor Warning: Incompatible color definition on input line 507.
+
+
+Package xcolor Warning: Incompatible color definition on input line 508.
+
+
+Package xcolor Warning: Incompatible color definition on input line 509.
+
+
+Package xcolor Warning: Incompatible color definition on input line 510.
+
+
+Package xcolor Warning: Incompatible color definition on input line 511.
+
+
+Package xcolor Warning: Incompatible color definition on input line 512.
+
+
+Package xcolor Warning: Incompatible color definition on input line 513.
+
+
+Package xcolor Warning: Incompatible color definition on input line 514.
+
+
+Package xcolor Warning: Incompatible color definition on input line 515.
+
+
+Package xcolor Warning: Incompatible color definition on input line 516.
+
+
+Package xcolor Warning: Incompatible color definition on input line 517.
+
+
+Package xcolor Warning: Incompatible color definition on input line 518.
+
+
+Package xcolor Warning: Incompatible color definition on input line 519.
+
+
+Package xcolor Warning: Incompatible color definition on input line 520.
+
+
+Package xcolor Warning: Incompatible color definition on input line 521.
+
+
+Package xcolor Warning: Incompatible color definition on input line 522.
+
+
+Package xcolor Warning: Incompatible color definition on input line 523.
+
+
+Package xcolor Warning: Incompatible color definition on input line 524.
+
+
+Package xcolor Warning: Incompatible color definition on input line 525.
+
+
+Package xcolor Warning: Incompatible color definition on input line 526.
+
+
+Package xcolor Warning: Incompatible color definition on input line 527.
+
+
+Package xcolor Warning: Incompatible color definition on input line 528.
+
+
+Package xcolor Warning: Incompatible color definition on input line 529.
+
+
+Package xcolor Warning: Incompatible color definition on input line 530.
+
+
+Package xcolor Warning: Incompatible color definition on input line 531.
+
+
+Package xcolor Warning: Incompatible color definition on input line 532.
+
+
+Package xcolor Warning: Incompatible color definition on input line 533.
+
+
+Package xcolor Warning: Incompatible color definition on input line 534.
+
+
+Package xcolor Warning: Incompatible color definition on input line 535.
+
+
+Package xcolor Warning: Incompatible color definition on input line 536.
+
+
+Package xcolor Warning: Incompatible color definition on input line 537.
+
+
+Package xcolor Warning: Incompatible color definition on input line 538.
+
+
+Package xcolor Warning: Incompatible color definition on input line 539.
+
+
+Package xcolor Warning: Incompatible color definition on input line 540.
+
+
+Package xcolor Warning: Incompatible color definition on input line 541.
+
+
+Package xcolor Warning: Incompatible color definition on input line 542.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 245--543
+[]\OT1/cmtt/m/n/10.95 ddd[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 ddrescu
+e[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 dejagnu[][]\OT1/ppl/m/n/10.95 ,
+ []\OT1/cmtt/m/n/10.95 denemo[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 dic
+o[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 diction[][]\OT1/ppl/m/n/10.95 ,
+ []\OT1/cmtt/m/n/10.95 diffutils[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 
+dionysus[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 direvent[][]\OT1/ppl/m/n
+/10.95 ,
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 245--543
+[]\OT1/cmtt/m/n/10.95 gawk[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gcal[]
+[]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gcc[][]\OT1/ppl/m/n/10.95 , []\OT1
+/cmtt/m/n/10.95 gcide[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gcl[][]\OT1
+/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gcompris[][]\OT1/ppl/m/n/10.95 , []\OT1/
+cmtt/m/n/10.95 gdb[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gdbm[][]\OT1/p
+pl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gengen[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt
+/m/n/10.95 gengetopt[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gettext[][]\
+OT1/ppl/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 245--543
+[]\OT1/cmtt/m/n/10.95 gforth[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 ggra
+debook[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 ghostscript[][]\OT1/ppl/m/
+n/10.95 , []\OT1/cmtt/m/n/10.95 gift[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10
+.95 gleem[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 glibc[][]\OT1/ppl/m/n/1
+0.95 , []\OT1/cmtt/m/n/10.95 global[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.
+95 glpk[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gmp[][]\OT1/ppl/m/n/10.95
+ , []\OT1/cmtt/m/n/10.95 gnash[][]\OT1/ppl/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 245--543
+[]\OT1/cmtt/m/n/10.95 gnuprologjava[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.
+95 gnuradio[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gnurobots[][]\OT1/ppl
+/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gnuschool[][]\OT1/ppl/m/n/10.95 , []\OT1/cmt
+t/m/n/10.95 gnushogi[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gnusound[][]
+\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 gnuspeech[][]\OT1/ppl/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 245--543
+[]\OT1/cmtt/m/n/10.95 idutils[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 ign
+uit[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 indent[][]\OT1/ppl/m/n/10.95 
+, []\OT1/cmtt/m/n/10.95 inetutils[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95
+ intlfonts[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 jacal[][]\OT1/ppl/m/n/
+10.95 , []\OT1/cmtt/m/n/10.95 jel[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95
+ jwhois[][]\OT1/ppl/m/n/10.95 , []\OT1/cmtt/m/n/10.95 kawa[][]\OT1/ppl/m/n/10.9
+5 , []\OT1/cmtt/m/n/10.95 less[][]\OT1/ppl/m/n/10.95 ,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[6]
+
+Package xcolor Warning: Incompatible color definition on input line 547.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[7] <fig3.pdf, id=94, 216.81pt x 72.27pt>
+File: fig3.pdf Graphic file (type pdf)
+ <use fig3.pdf>
+Package pdftex.def Info: fig3.pdf used on input line 558.
+(pdftex.def)             Requested size: 216.80946pt x 72.2698pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 565.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[8 <./fig3.pdf>]
+
+Package xcolor Warning: Incompatible color definition on input line 586.
+
+
+Package xcolor Warning: Incompatible color definition on input line 586.
+
+
+Package xcolor Warning: Incompatible color definition on input line 588.
+
+
+Package xcolor Warning: Incompatible color definition on input line 588.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 592.
+(pdftex.def)             Requested size: 108.40472pt x 36.1349pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 593.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 598.
+(pdftex.def)             Requested size: 162.60709pt x 54.20235pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 599.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 604.
+(pdftex.def)             Requested size: 216.80946pt x 72.2698pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 605.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 610.
+(pdftex.def)             Requested size: 271.01183pt x 90.33725pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 611.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 616.
+(pdftex.def)             Requested size: 379.41655pt x 126.47215pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 617.
+
+
+Package xcolor Warning: Incompatible color definition on input line 621.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[9]
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [10]
+
+Package xcolor Warning: Incompatible color definition on input line 655.
+
+
+Package xcolor Warning: Incompatible color definition on input line 655.
+
+
+Package xcolor Warning: Incompatible color definition on input line 657.
+
+
+Package xcolor Warning: Incompatible color definition on input line 659.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 674.
+(pdftex.def)             Requested size: 108.40472pt x 36.1349pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 676.
+
+File: fig1.pdf Graphic file (type pdf)
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 681.
+(pdftex.def)             Requested size: 162.60709pt x 54.20235pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 683.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [11]
+
+Package xcolor Warning: Incompatible color definition on input line 693.
+
+
+Package xcolor Warning: Incompatible color definition on input line 700.
+
+
+Underfull \vbox (badness 3179) has occurred while \output is active []
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [12]
+File: fig1.pdf Graphic file (type pdf)
+
+<use fig1.pdf>
+Package pdftex.def Info: fig1.pdf used on input line 761.
+(pdftex.def)             Requested size: 320.09349pt x 106.71088pt.
+
+
+Package xcolor Warning: Incompatible color definition on input line 786.
+
+
+Package xcolor Warning: Incompatible color definition on input line 791.
+
+
+Package xcolor Warning: Incompatible color definition on input line 791.
+
+
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [13])
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [14]
+\openout2 = `chap2.aux'.
+
+
+(./chap2.tex
+DEBUG: @chapter: arg 1 = [The Second]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he Second}]
+CHAPTER 2.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+(./chap2.bbl
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+LaTeX Warning: Citation `Einstein:1911:BZE' in file `chap2' on page 15 undefine
+d on input line 29.
+
+[15
+
+
+
+
+]))
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [16]
+\openout2 = `chap3.aux'.
+
+
+(./chap3.tex
+DEBUG: @chapter: arg 1 = [The Third]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he Third}]
+CHAPTER 3.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+(./chap3.bbl
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+LaTeX Warning: Citation `Einstein:1911:BMAa' in file `chap3' on page 17 undefin
+ed on input line 28.
+
+
+LaTeX Warning: Citation `Einstein:1911:BMAb' in file `chap3' on page 17 undefin
+ed on input line 28.
+
+
+LaTeX Warning: Citation `Einstein:1911:BZE' in file `chap3' on page 17 undefine
+d on input line 37.
+
+[17
+
+
+
+
+]))
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [18]
+\openout2 = `chap4.aux'.
+
+
+(./chap4.tex
+DEBUG: @chapter: arg 1 = [The Fourth]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he Fourth}]
+CHAPTER 4.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 25.
+
+
+Package xcolor Warning: Incompatible color definition on input line 25.
+
+)
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[20]
+\openout2 = `chap5.aux'.
+
+ (./chap5.tex
+DEBUG: @chapter: arg 1 = [Extending T\kern -.1667em\lower .5ex\hbox {E}\kern -.
+125emX\spacefactor 1000 {} and METAFONT with floating point arithmetic]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax E
+xtending T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor 1000 {} 
+and METAFONT with floating point arithmetic}]
+CHAPTER 5.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Overfull \hbox (21.00772pt too wide) in paragraph at lines 5--8
+[]\OT1/ppl/m/n/10.95 In this chap-ter, we demon-strate how to in-cor-po-rate an
+-other doc-u-ment, such as a previously-
+ []
+
+
+Overfull \hbox (1.0571pt too wide) in paragraph at lines 16--22
+\OT1/ppl/m/n/10.95 holder, which, for jour-nals is nor-mally the jour-nal pub-l
+isher. Such per-mis-sions would
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 29.
+
+[21
+
+
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 67.
+
+
+Package xcolor Warning: Incompatible color definition on input line 89.
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[22]
+
+Package xcolor Warning: Incompatible color definition on input line 129.
+
+
+Package xcolor Warning: Incompatible color definition on input line 141.
+
+
+Overfull \hbox (18.47824pt too wide) in paragraph at lines 140--142
+[]\OT1/ppl/m/n/10.95 At this point, we is-sue the block of com-mands above, be-
+gin-ning with [][]\OT1/cmtt/m/n/10.95 \setupuuchapterbib[]\OT1/ppl/m/n/10.95 : 
+
+ []
+
+<tug2007.pdf, id=147, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf>
+Package pdftex.def Info: tug2007.pdf used on input line 171.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf>
+Package pdftex.def Info: tug2007.pdf used on input line 171.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+Package pdfpages Warning: Erroneous page width of 0.0pt is corrected.
+
+
+Package pdfpages Warning: Erroneous page height of 0.0pt is corrected.
+
+<tug2007.pdf, id=150, page=1, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 1>
+Package pdftex.def Info: tug2007.pdf, page1 used on input line 171.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 1>
+Package pdftex.def Info: tug2007.pdf, page1 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[23]
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 1>
+Package pdftex.def Info: tug2007.pdf, page1 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 1>
+Package pdftex.def Info: tug2007.pdf, page1 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 1>
+Package pdftex.def Info: tug2007.pdf, page1 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [24 <./tug2007.pdf>]
+<tug2007.pdf, id=199, page=2, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 2>
+Package pdftex.def Info: tug2007.pdf, page2 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 2>
+Package pdftex.def Info: tug2007.pdf, page2 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 2>
+Package pdftex.def Info: tug2007.pdf, page2 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [25 <./tug2007.pdf>]
+<tug2007.pdf, id=208, page=3, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 3>
+Package pdftex.def Info: tug2007.pdf, page3 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 3>
+Package pdftex.def Info: tug2007.pdf, page3 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 3>
+Package pdftex.def Info: tug2007.pdf, page3 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [26 <./tug2007.pdf>]
+<tug2007.pdf, id=212, page=4, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 4>
+Package pdftex.def Info: tug2007.pdf, page4 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 4>
+Package pdftex.def Info: tug2007.pdf, page4 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 4>
+Package pdftex.def Info: tug2007.pdf, page4 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [27 <./tug2007.pdf>]
+<tug2007.pdf, id=221, page=5, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 5>
+Package pdftex.def Info: tug2007.pdf, page5 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 5>
+Package pdftex.def Info: tug2007.pdf, page5 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 5>
+Package pdftex.def Info: tug2007.pdf, page5 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [28 <./tug2007.pdf>]
+<tug2007.pdf, id=231, page=6, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 6>
+Package pdftex.def Info: tug2007.pdf, page6 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 6>
+Package pdftex.def Info: tug2007.pdf, page6 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 6>
+Package pdftex.def Info: tug2007.pdf, page6 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [29 <./tug2007.pdf>]
+<tug2007.pdf, id=235, page=7, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 7>
+Package pdftex.def Info: tug2007.pdf, page7 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 7>
+Package pdftex.def Info: tug2007.pdf, page7 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 7>
+Package pdftex.def Info: tug2007.pdf, page7 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [30 <./tug2007.pdf>]
+<tug2007.pdf, id=239, page=8, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 8>
+Package pdftex.def Info: tug2007.pdf, page8 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 8>
+Package pdftex.def Info: tug2007.pdf, page8 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 8>
+Package pdftex.def Info: tug2007.pdf, page8 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [31 <./tug2007.pdf>]
+<tug2007.pdf, id=253, page=9, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 9>
+Package pdftex.def Info: tug2007.pdf, page9 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 9>
+Package pdftex.def Info: tug2007.pdf, page9 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 9>
+Package pdftex.def Info: tug2007.pdf, page9 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [32 <./tug2007.pdf>]
+<tug2007.pdf, id=257, page=10, 614.295pt x 794.97pt>
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 10>
+Package pdftex.def Info: tug2007.pdf, page10 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+File: tug2007.pdf Graphic file (type pdf)
+ <use tug2007.pdf, page 10>
+Package pdftex.def Info: tug2007.pdf, page10 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+File: tug2007.pdf Graphic file (type pdf)
+
+<use tug2007.pdf, page 10>
+Package pdftex.def Info: tug2007.pdf, page10 used on input line 171.
+(pdftex.def)             Requested size: 559.00932pt x 723.42384pt.
+ [33 <./tug2007.pdf>])
+\openout2 = `appa.aux'.
+
+ (./appa.tex
+DEBUG: @chapter: arg 1 = [The First]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he First}]
+APPENDIX A.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+) [34
+
+
+
+
+]
+\openout2 = `appb.aux'.
+
+ (./appb.tex
+DEBUG: @chapter: arg 1 = [The Second]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he Second}]
+APPENDIX B.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+) [35
+
+
+
+
+]
+\openout2 = `appc.aux'.
+
+ (./appc.tex
+DEBUG: @chapter: arg 1 = [The Third]
+DEBUG: @chapter: arg 2 = [{\hyphenpenalty =10000\exhyphenpenalty =10000\relax T
+he Third}]
+APPENDIX C.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 79.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36
+
+
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 102.
+
+
+Package xcolor Warning: Incompatible color definition on input line 106.
+
+
+Package xcolor Warning: Incompatible color definition on input line 109.
+
+
+Package xcolor Warning: Incompatible color definition on input line 116.
+
+
+Package xcolor Warning: Incompatible color definition on input line 122.
+
+
+Package xcolor Warning: Incompatible color definition on input line 123.
+
+
+Package xcolor Warning: Incompatible color definition on input line 123.
+
+
+Package xcolor Warning: Incompatible color definition on input line 123.
+
+
+Package xcolor Warning: Incompatible color definition on input line 124.
+
+
+Package xcolor Warning: Incompatible color definition on input line 124.
+
+
+Package xcolor Warning: Incompatible color definition on input line 124.
+
+
+Package xcolor Warning: Incompatible color definition on input line 126.
+
+
+Package xcolor Warning: Incompatible color definition on input line 127.
+
+
+Package xcolor Warning: Incompatible color definition on input line 131.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[37] (./appc.bbl
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+[]\sc A. Ein-stein\OT1/ppl/m/n/10.95 , \OT1/ppl/m/it/10.95 Berich-ti-gung zu me
+iner Ar-beit: Eine neue Bes-tim-mung der
+ []
+
+
+Overfull \vbox (7.47873pt too high) has occurred while \output is active []
+
+
+[39]))
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [40]
+(./sample-thesis-2-bioname.ind
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 13.
+
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+
+Package xcolor Warning: Incompatible color definition on input line 24.
+
+
+Package xcolor Warning: Incompatible color definition on input line 28.
+
+
+Package xcolor Warning: Incompatible color definition on input line 36.
+
+
+Package xcolor Warning: Incompatible color definition on input line 45.
+
+
+Package xcolor Warning: Incompatible color definition on input line 50.
+
+
+Package xcolor Warning: Incompatible color definition on input line 57.
+
+
+Package xcolor Warning: Incompatible color definition on input line 62.
+
+
+Package xcolor Warning: Incompatible color definition on input line 67.
+
+
+Package xcolor Warning: Incompatible color definition on input line 74.
+
+[41
+
+
+]) (./sample-thesis-2-fsfname.ind
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 21.
+
+
+Package xcolor Warning: Incompatible color definition on input line 33.
+
+
+Package xcolor Warning: Incompatible color definition on input line 58.
+
+
+Package xcolor Warning: Incompatible color definition on input line 74.
+
+
+Package xcolor Warning: Incompatible color definition on input line 84.
+
+[42
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 96.
+
+
+Package xcolor Warning: Incompatible color definition on input line 178.
+
+
+Package xcolor Warning: Incompatible color definition on input line 189.
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [43]
+
+Package xcolor Warning: Incompatible color definition on input line 197.
+
+
+Package xcolor Warning: Incompatible color definition on input line 203.
+
+
+Package xcolor Warning: Incompatible color definition on input line 207.
+
+
+Package xcolor Warning: Incompatible color definition on input line 228.
+
+
+Package xcolor Warning: Incompatible color definition on input line 254.
+
+
+Package xcolor Warning: Incompatible color definition on input line 261.
+
+
+Package xcolor Warning: Incompatible color definition on input line 269.
+
+
+Package xcolor Warning: Incompatible color definition on input line 286.
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [44]
+
+Package xcolor Warning: Incompatible color definition on input line 298.
+
+
+Package xcolor Warning: Incompatible color definition on input line 323.
+
+
+Package xcolor Warning: Incompatible color definition on input line 336.
+
+
+Package xcolor Warning: Incompatible color definition on input line 344.
+
+
+Package xcolor Warning: Incompatible color definition on input line 350.
+
+
+Package xcolor Warning: Incompatible color definition on input line 359.
+
+
+Package xcolor Warning: Incompatible color definition on input line 368.
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [45])
+(./sample-thesis-2.ind
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+
+Package xcolor Warning: Incompatible color definition on input line 25.
+
+
+Package xcolor Warning: Incompatible color definition on input line 36.
+
+
+Package xcolor Warning: Incompatible color definition on input line 42.
+
+
+Package xcolor Warning: Incompatible color definition on input line 50.
+
+
+Package xcolor Warning: Incompatible color definition on input line 56.
+
+
+Package xcolor Warning: Incompatible color definition on input line 85.
+
+
+Package xcolor Warning: Incompatible color definition on input line 91.
+
+
+Package xcolor Warning: Incompatible color definition on input line 96.
+
+[46
+
+
+]
+
+Package xcolor Warning: Incompatible color definition on input line 104.
+
+
+Package xcolor Warning: Incompatible color definition on input line 110.
+
+
+Package xcolor Warning: Incompatible color definition on input line 125.
+
+
+Package xcolor Warning: Incompatible color definition on input line 140.
+
+
+Package xcolor Warning: Incompatible color definition on input line 147.
+
+
+Package xcolor Warning: Incompatible color definition on input line 155.
+
+
+Package xcolor Warning: Incompatible color definition on input line 171.
+
+
+Package xcolor Warning: Incompatible color definition on input line 177.
+
+
+Package xcolor Warning: Incompatible color definition on input line 193.
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [47]
+
+Package xcolor Warning: Incompatible color definition on input line 204.
+
+
+Package xcolor Warning: Incompatible color definition on input line 217.
+
+
+Package xcolor Warning: Incompatible color definition on input line 223.
+
+
+Package xcolor Warning: Incompatible color definition on input line 230.
+
+
+Package xcolor Warning: Incompatible color definition on input line 249.
+
+
+Package xcolor Warning: Incompatible color definition on input line 257.
+
+
+Package xcolor Warning: Incompatible color definition on input line 262.
+
+
+Overfull \vbox (7.643pt too high) has occurred while \output is active []
+
+ [48])
+(./sample-thesis-2.aux (./chap1.aux) (./chap2.aux) (./chap3.aux) (./chap4.aux)
+(./chap5.aux) (./appa.aux) (./appb.aux) (./appc.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16202 strings out of 493013
+ 312825 string characters out of 6132885
+ 434225 words of memory out of 5000000
+ 19223 multiletter control sequences out of 15000+600000
+ 47631 words of font info for 140 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,19n,65p,434b,1631s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmcsc10.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/archive/share/lib/tex/texl
+ive-2017-02/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/archive/
+share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt10.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/
+fonts/type1/public/fourier/fourier-mex.pfb></home/archive/share/lib/tex/texlive
+-2017-02/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb></home/archive/
+share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/public/fourier/fourier-ms.
+pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/public/
+mathpazo/fplmbb.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fon
+ts/type1/public/mathpazo/fplmbi.pfb></home/archive/share/lib/tex/texlive-2017-0
+2/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></home/archive/share/lib/tex
+/texlive-2017-02/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></home/archi
+ve/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/hoekwater/mflogo-font/l
+ogo10.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/h
+oekwater/mflogo-font/logo9.pfb></home/archive/share/lib/tex/texlive-2017-02/tex
+mf-dist/fonts/type1/hoekwater/mflogo-font/logod10.pfb></home/archive/share/lib/
+tex/texlive-2017-02/texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl10.pfb><
+/home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/adobe/utopia
+/putb8a.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1
+/adobe/utopia/putr8a.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dis
+t/fonts/type1/adobe/utopia/putr8a.pfb></home/archive/share/lib/tex/texlive-2017
+-02/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></home/archive/share/lib/te
+x/texlive-2017-02/texmf-dist/fonts/type1/public/cm-super/sfit0900.pfb></home/ar
+chive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/public/cm-super/sftt
+0900.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/pu
+blic/cm-super/sftt1000.pfb></home/archive/share/lib/tex/texlive-2017-02/texmf-d
+ist/fonts/type1/urw/palatino/uplb8a.pfb></home/archive/share/lib/tex/texlive-20
+17-02/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/archive/share/lib/t
+ex/texlive-2017-02/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></home/archiv
+e/share/lib/tex/texlive-2017-02/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb
+>
+Output written on sample-thesis-2.pdf (63 pages, 464969 bytes).
+PDF statistics:
+ 373 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,43 @@
+\contentsline {chapter}{\uppercase {Abstract}}{iii}
+\contentsline {chapter}{LIST OF FIGURES}{vii}
+\contentsline {chapter}{LIST OF TABLES}{viii}
+\contentsline {chapter}{\uppercase {Notation and Symbols}}{ix}
+\contentsline {chapter}{\uppercase {Typesetting Experiments}}{x}
+\unhbox \voidb@x \\[-1.2ex] \kern -1.5em\contentsline {}{\textbf {CHAPTERS}}{}
+\contentsline {chapter}{\numberline {1.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The First}\global \uuthesis@needtocspacetrue }{1}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {1.1}The first section}{1}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsection}{\numberline {1.1.1}The first subsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsection}{\numberline {1.1.2}The second subsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsection}{\numberline {1.1.3}The third subsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsubsection}{\numberline {1.1.3.1}The first subsubsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsubsection}{\numberline {1.1.3.2}The second subsubsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {paragraph}{\numberline {1.1.3.2.1}The first numbered paragraph}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {paragraph}{\numberline {1.1.3.2.2}The second numbered paragraph}{3}
+\contentsline {section}{\numberline {1.2}The second section}{3}
+\contentsline {section}{\numberline {1.3}The third section}{5}
+\contentsline {section}{\numberline {1.4}Free software packages}{6}
+\contentsline {section}{\numberline {1.5}Resizing figures}{9}
+\contentsline {section}{\numberline {1.6}Summary and conclusions}{13}
+\contentsline {chapter}{\numberline {2.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Second}\global \uuthesis@needtocspacetrue }{15}
+\contentsline {chapter}{\numberline {3.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Third}\global \uuthesis@needtocspacetrue }{16}
+\contentsline {chapter}{\numberline {4.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Fourth}\global \uuthesis@needtocspacetrue }{17}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {4.1}More on the topic}{17}
+\contentsline {section}{\numberline {4.2}Even more on the topic}{17}
+\contentsline {section}{\numberline {4.3}Summary and conclusions}{18}
+\unhbox \voidb@x \\[-1.2ex] \kern -1.5em\contentsline {}{\textbf {APPENDICES}}{}
+\contentsline {chapter}{\numberline {A.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The First}\global \uuthesis@needtocspacetrue }{19}
+\contentsline {chapter}{\numberline {B.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Second}\global \uuthesis@needtocspacetrue }{20}
+\contentsline {chapter}{\numberline {C.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Third}\global \uuthesis@needtocspacetrue }{21}
+\contentsline {chapter}{REFERENCES}{24}
+\contentsline {chapter}{{\MakeUppercase {Binomial Nomenclature Index}}}{27}
+\contentsline {chapter}{{\MakeUppercase {Free Software Index}}}{28}
+\contentsline {chapter}{{\MakeUppercase {Topic Index}}}{32}

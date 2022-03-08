@@ -1,0 +1,268 @@
+\begin{theindex}
+  \newindexgroup{A}\nopagebreak
+  \item aardvark\quad 17, 20
+  \item aardwolf\quad 17, 20
+  \item addax\quad 17, 20
+  \item African ungulate\quad \see{gnu}{14}
+  \item \bioname{Alces alces}\quad 14, \see{moose}{14}, 15, 17, 20
+  \item antelope\quad 17, 20
+  \item \bioname{Antilocapra americana}\quad 14, \see{pronghorn}{14}, 
+		15, 17, 20
+  \item aoudad\quad 17, 20
+  \item azymous (unleavened)\quad 17, 20
+
+  \indexspace
+  \newindexgroup{B}\nopagebreak
+  \item Babbage, Charles (1791--1871)\quad \mainpage{40}
+  \item beaver\quad 17, 20
+  \item bison\quad 17, 20
+  \item bobcat (\bioname{Lynx rufus})\quad 17, 20
+  \item bongo (\bioname{Tragelaphus eurycerus})\quad 17, 20
+  \item Borel measure ($\mu$)\quad 44
+  \item \bioname{Bos taurus indicus}\quad 14, 20
+
+  \indexspace
+  \newindexgroup{C}\nopagebreak
+  \item caribou\quad 17, 20
+  \item \bioname{Cervus canadensis}\quad 14, \see{elk}{14}, 
+		\see{wapiti}{14}, 17, 20
+  \item cheetah\quad 17, 20
+  \item \bioname{Connochaetes gnou}\quad 14, \see{gnu}{14}, 37, 38, 41
+  \item cougar (\bioname{Puma concolor})\quad 17, 20
+  \item coyote\quad 17, 20
+  \item crocodile\quad 17, 20
+
+  \indexspace
+  \newindexgroup{D}\nopagebreak
+  \item DCT\quad \see{discrete cosine transform}{44}
+  \item deer\quad 17, 20
+  \item DWT\quad \see{discrete wavelet transform}{44}
+
+  \indexspace
+  \newindexgroup{E}\nopagebreak
+  \item \bioname{E. coli} bacterium\quad 14, 37, 38, 41
+  \item elephant\quad 17, 20
+  \item elk (\bioname{Cervus canadensis})\quad 17, 20
+  \item Encapulated PostScript (EPS)\quad 1
+  \item \bioname{Escherichia coli}\quad \see{E. coli}{44}
+
+  \indexspace
+  \newindexgroup{F}\nopagebreak
+  \item ferret\quad 17, 20
+  \item fox\quad 17, 20
+  \item free software\quad \seealso{GNU Project}{14}
+
+  \indexspace
+  \newindexgroup{G}\nopagebreak
+  \item gazelle\quad 17, 20
+  \item gecko\quad 17, 20
+  \item gila monster\quad 17, 20
+  \item giraffe\quad 17, 20
+  \item gnu\quad 14, 15, 17, 20, 37, 38, \mainpage{41}
+    \subitem diet\quad 14, 15, 17, 38, 41
+      \subsubitem dry season\quad 14, 15, 17, 38, 41
+      \subsubitem wet season\quad 14, 15, 17, 38, 41
+    \subitem hair\quad 14, 37, 41
+      \subsubitem color\quad 14, 37, 41
+      \subsubitem DNA analysis\quad 14, 37, 41
+      \subsubitem texture\quad 14, 37, 41
+      \subsubitem thickness\quad 14, 37, 41
+    \subitem nonpredators
+      \subsubitem aardvarks\quad 20
+      \subsubitem blesbok\quad 20
+      \subsubitem elephants\quad 20
+      \subsubitem gazelles\quad 20
+      \subsubitem giraffes\quad 20
+      \subsubitem zebras\quad 20
+    \subitem predators\quad 14, 17, 20, 38, 41
+      \subsubitem crocodiles\quad 14, 17, 20, 38, 41
+      \subsubitem hyenas\quad 14, 17, 20, 38, 41
+      \subsubitem lions\quad 14, 17, 20, 38, 41
+  \item gnu hair\quad 14, 37, 38, 41
+  \item GNU Project\quad 14, 37, 38, \mainpage{41}
+
+  \indexspace
+  \newindexgroup{H}\nopagebreak
+  \item hartebeest\quad 17, 20
+  \item hippopotamus\quad 17, 20
+  \item hyena\quad 17, 20
+
+  \indexspace
+  \newindexgroup{I}\nopagebreak
+  \item ibex\quad 17, 20
+  \item impala\quad 17, 20
+
+  \indexspace
+  \newindexgroup{J}\nopagebreak
+  \item jackal\quad 17, 20
+  \item jackass\quad 17, 20
+  \item jackrabbit\quad 17, 20
+  \item jaguar (\bioname{Panthera onca})\quad 17, 20
+  \item jerboa\quad 17, 20
+
+  \indexspace
+  \newindexgroup{K}\nopagebreak
+  \item kangaroo\quad 17, 20
+  \item koala\quad 17, 20
+  \item kudu\quad 17, 20
+
+  \indexspace
+  \newindexgroup{L}\nopagebreak
+  \item \bioname{Lama glama}\quad 14, \see{llama}{14}, 17, 20
+  \item lemming\quad 17, 20
+  \item lemur\quad 17, 20
+  \item leopard\quad 17, 20
+  \item \bioname{Leopardus pardalis}\quad \see{ocelot}{14}
+  \item \bioname{Leopardus wiedii}\quad \see{margay}{14}
+  \item lion\quad 17, 20
+  \item llama (\bioname{Lama glama})\quad 17, 20
+  \item Lovelace, Lady Augusta Ada (1815--1852)\quad \mainpage{40}
+  \item lynx (\bioname{Lynx canadensis})\quad 17, 20
+  \item \bioname{Lynx canadensis}\quad \see{lynx}{14}, 17, 20
+  \item \bioname{Lynx rufus}\quad \see{bobcat}{14}, 20
+
+  \indexspace
+  \newindexgroup{M}\nopagebreak
+  \item mammoth\quad 15, 17, 20
+  \item manatee (\bioname{Trichechus inunguis})\quad 15, 17, 20
+  \item margay (\bioname{Leopardus wiedii})\quad 15, 17, 20
+  \item marmot (\bioname{Marmota marmota})\quad 15, 17, 20
+  \item \bioname{Marmota marmota}\quad 15, 17, 20
+  \item \bioname{Marmota monax}\quad 14, \see{woodchuck}{14}, 20
+  \item mastiff\quad 15, 17, 20
+  \item mastodon\quad 15, 17, 20
+  \item moose (\bioname{Alces alces})\quad 15, 17, 20
+  \item $\mu$ (mu)\quad \see{Borel measure}{44}
+  \item musk ox\quad 15, 17, 20
+  \item muskrat\quad 15, 17, 20
+
+  \indexspace
+  \newindexgroup{N}\nopagebreak
+  \item narwhal\quad 15, 17, 20
+  \item nautilus\quad 15, 17, 20
+  \item Neanderthal\quad 15, 17, 20
+  \item nilgai\quad 15, 17, 20
+
+  \indexspace
+  \newindexgroup{O}\nopagebreak
+  \item ocelot (\bioname{Leopardus pardalis})\quad 15, 17, 20
+  \item octopus\quad 15, 17, 20
+  \item \bioname{Odocoileus virginianus}\quad 14, 20
+  \item okapi\quad 15, 17, 20
+  \item opossum\quad 15, 17, 20
+
+  \indexspace
+  \newindexgroup{P}\nopagebreak
+  \item pachyderm\quad \see{elephant}{14}, \see{hippopotamus}{14}, 
+		\see{rhinoceros}{14}
+  \item panda\quad 15, 17, 20
+  \item panther\quad 15, 17, 20
+  \item \bioname{Panthera onca}\quad \see{jaguar}{14}, 17, 20
+  \item \bioname{Panthera tigris}\quad 14, \see{tiger}{14}, 20
+  \item peccary\quad 15, 17, 20
+  \item Portable Document Format (PDF)\quad 1
+  \item pronghorn (\bioname{Antilocapra americana})\quad 15, 17, 20
+  \item pterodactyl\quad 15, 17, 20
+  \item puffin\quad 15, 17, 20
+  \item puma\quad \see{cougar}{14}
+  \item \bioname{Puma concolor}\quad \see{cougar}{14}, 20
+
+  \indexspace
+  \newindexgroup{Q}\nopagebreak
+  \item quagga\quad 15, 17, 20
+  \item quail\quad 15, 17, 20
+  \item Queensland viper\quad 15, 17, 20
+
+  \indexspace
+  \newindexgroup{R}\nopagebreak
+  \item raccoon\quad 15, 17, 20
+  \item rat\quad 15, 17, 20
+  \item rhea\quad 15, 17, 20
+  \item Rhine berry\quad 15, 17, 20
+  \item Rhinegrave\quad 15, 17, 20
+  \item Rhineland\quad 15, 17, 20
+  \item rhinestone\quad 15, 17, 20
+  \item rhino\quad \see{rhinoceros}{14}
+  \item rhinocerite\quad 15, 17, 20
+  \item rhinoceros\quad 15, 17, 20
+  \item rhinoceros horn\quad 15, 17, 20
+  \item rhinodon\quad 15, 17, 20
+  \item rhinodont\quad 15, 17, 20
+
+  \indexspace
+  \newindexgroup{S}\nopagebreak
+  \item saber-toothed cat\quad 14, 20
+  \item salamander\quad 14, 20
+  \item sapajou\quad 14, 20
+  \item skink\quad 14, 20
+  \item skunk\quad 14, 20
+  \item sunfish\quad 14, 20
+  \item suslik\quad 14, 20
+  \item swordfish\quad 14, 20
+
+  \indexspace
+  \newindexgroup{T}\nopagebreak
+  \item tangun\quad 14, 20
+  \item tapir\quad 14, 20
+  \item tiger (\bioname{Panthera tigris})\quad 14, 20
+  \item toucan\quad 14, 20
+  \item \bioname{Tragelaphus eurycerus}\quad \see{bongo}{14}, 17, 20
+  \item transform\quad 41, \seealso{Discrete DCT Transform}{44}, 
+		\seealso{Fast Fourier Transform}{44}
+  \item \bioname{Trichechus inunguis}\quad \see{manatee}{14}
+  \item tuna\quad 14, 20
+  \item turbot\quad 14, 20
+
+  \indexspace
+  \newindexgroup{U}\nopagebreak
+  \item ungulate\quad \see{gnu}{14}, \see{impala}{14}, \see{kudu}{14}, 
+		\see{springbok}{14}
+  \item unicorn\quad 14, 20
+
+  \indexspace
+  \newindexgroup{V}\nopagebreak
+  \item vampire bat\quad 14, 20
+  \item \bioname{Vicugna vicugna}\quad 14, \see{vicu{\~n}a}{14}, 20
+  \item vicu{\~n}a (\bioname{Vicugna vicugna})\quad 14, 20
+  \item vulture\quad 14, 20
+
+  \indexspace
+  \newindexgroup{W}\nopagebreak
+  \item wallaby\quad 14, 20
+  \item walrus\quad 14, 20
+  \item wanderoo\quad 14, 20
+  \item wapiti\quad 20
+  \item wapiti (\bioname{Cervus canadensis})\quad 14
+  \item wart hog\quad 14, 20
+  \item water buffalo\quad 14, 20
+  \item weasel\quad 14, 20
+  \item whale\quad 14, 20
+  \item whippet\quad 14, 20
+  \item white-tailed deer (\bioname{Odocoileus virginianus})\quad 14, 
+		20
+  \item wildebeest\quad \see{gnu}{14}
+  \item wolf\quad 14, 20
+  \item wolverine\quad 14, 20
+  \item woodchuck (\bioname{Marmota monax})\quad 14, 20
+
+  \indexspace
+  \newindexgroup{X}\nopagebreak
+  \item X radiation\quad 14, 20
+  \item X ray\quad 14, 20
+  \item xenon (noble gas)\quad 14, 20
+  \item xylem (woody tissue of a plant)\quad 14, 20
+  \item xylophone\quad 14, 20
+
+  \indexspace
+  \newindexgroup{Y}\nopagebreak
+  \item yak\quad 14, 20
+  \item yucca\quad 14, 20
+
+  \indexspace
+  \newindexgroup{Z}\nopagebreak
+  \item zebra\quad 14, 20
+  \item zebu (cattle) (\bioname{Bos taurus indicus})\quad 14, 20
+  \item zoetrope\quad 14, 20
+  \item zythum (ancient Egyptian malt beverage)\quad 14, 20
+
+\end{theindex}

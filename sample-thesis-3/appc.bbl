@@ -1,0 +1,191 @@
+\def \noopsort #1{}
+\begin{thebibliography}{10}
+
+\bibitem{Babbage:1910:BBA}
+{\sc H.~P. Babbage}, {\em {Babbage}: {Babbage}'s analytical engine}, Monthly
+  Notices of the Royal Astronomical Society, 70 (1910), pp.~517--526, 645.
+\newblock Reprinted in \cite[\S 2.3]{Randell:1982:ODC}.
+
+\bibitem{Beebe:2007:ETM}
+{\sc N.~H.~F. Beebe}, {\em Extending {\TeX} and {\MF} with floating-point
+  arithmetic}, {\TUB{}}, 28 (2007), pp.~319--328.
+
+\bibitem{Beebe:1989:PCP}
+{\sc N.~H.~F. Beebe and R.~P.~C. Rodgers}, {\em {$<$PLOT79$>$}: a comprehensive
+  portable {Fortran} scientific line graphics system, as applied to biomedical
+  research}, Computers in Biology and Medicine, 19 (1989), pp.~385--402.
+
+\bibitem{Bohr:1911:SME}
+{\sc N.~H.~D. Bohr}, {\em {Studier over Metallernes Elektronteori}. ({Danish})
+  [{Studies} on the electron theory of metals]}, doktor disputats,
+  K{\o}benhavns Universitet, K{\o}benhavn, Danmark, 1911.
+\newblock Afhandling for den filosofiske doktorgrad. [Thesis for the Doctor of
+  Philosophy.].
+
+\bibitem{Cody:1981:APF}
+{\sc W.~J. {Cody, Jr.}}, {\em Analysis of proposals for the floating-point
+  standard}, Computer, 14 (1981), pp.~63--69.
+
+\bibitem{Dijkstra:1953:FBV}
+{\sc E.~W. Dijkstra}, {\em Functionele beschrijving van de {ARRA}. ({Dutch})
+  [{Functional} description of the {ARRA}]}, Tech. Rep.~12, Mathematisch
+  Centrum, Amsterdam, The Netherlands, 1953.
+
+\bibitem{Dirac:1926:QM}
+{\sc P.~A.~M. Dirac}, {\em Quantum Mechanics}, {Ph.D.} thesis, Cambridge
+  University, Cambridge, UK, June 1926.
+\newblock According to \cite[p. 101]{Farmelo:2009:SMH}, this is the first
+  thesis to be submitted anywhere on the subject of quantum mechanics.
+
+\bibitem{Einstein:1905:NBM}
+{\sc A.~Einstein}, {\em {Eine Neue Bestimmung der Molek{\"u}ldimensionen}.
+  ({German}) [{A} new determination of molecular dimensions]}, inaugural
+  dissertation, Bern Wyss., Bern, Switzerland, 1905.
+\newblock Published in \cite{Einstein:1906:NBM}.
+
+\bibitem{Einstein:1906:NBM}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em {Eine neue
+  Bestimmung der Molek{\"u}ldimensionen}. ({German}) [{A} new determination of
+  molecular dimensions]}, Annalen der Physik (1900) (series 4), 324 (1906),
+  pp.~289--306.
+\newblock See corrections \cite{Einstein:1911:BMAa,Einstein:1911:BMAb}. This is
+  a slightly revised version of Einstein's doctoral dissertation
+  \cite{Einstein:1905:NBM}.
+
+\bibitem{Einstein:1911:BMAa}
+{\sc A.~Einstein}, {\em {Bemerkung zu meiner Arbeit: Eine Beziehung zwischen
+  dem elastischen Verhalten}. ({German}) [{Remark} on my paper: {``A
+  relationship between the elastic behavior \ldots{}''}]}, Annalen der Physik
+  (1900) (series 4), 339 (1911), pp.~590--590.
+\newblock See \cite{Einstein:1911:BZE}.
+
+\bibitem{Einstein:1911:BMAb}
+{\sc A.~Einstein}, {\em {Berichtigung zu meiner Arbeit: Eine neue Bestimmung
+  der Molek{\"u}ldimensionen}. ({German}) [{Corrections} to my work: a new
+  determination of molecular dimensions]}, Annalen der Physik (1900) (series
+  4), 339 (1911), pp.~591--592.
+\newblock See \cite{Einstein:1906:NBM}.
+
+\bibitem{Einstein:1911:BZE}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em {Eine Beziehung
+  zwischen dem elastischen Verhalten und der spezifischen W{\"a}rme bei festen
+  K{\"o}rpen mit einatomigem Molek{\"u}l}. ({German}) [{A} relationship between
+  the elastic behavior and the specific heat of solid bodies with monatomic
+  molecules]}, Annalen der Physik (1900) (series 4), 339 (1911), pp.~170--174,
+  590.
+\newblock See remarks \cite{Einstein:1911:BMAa,Einstein:1911:BMAb}.
+
+\bibitem{Farmelo:2009:SMH}
+{\sc G.~Farmelo}, {\em The Strangest Man: The Hidden Life of {Paul Dirac},
+  Mystic of the Atom}, Basic Books, New York, NY, USA, 2009.
+
+\bibitem{Goldstine:1946:ENI}
+{\sc H.~H. Goldstine and A.~Goldstine}, {\em The {Electronic Numerical
+  Integrator and Computer (ENIAC)}}, Mathematical Tables and Other Aids to
+  Computation, 2 (1946), pp.~97--110.
+\newblock Reprinted in \cite[\S 7.7]{Randell:1982:ODC}.
+
+\bibitem{Hall:1994:PNE}
+{\sc P.~Hall and P.~Patil}, {\em Properties of nonparametric estimators of
+  autocovariance for stationary random fields}, Probability Theory and Related
+  Fields, 99 (1994), pp.~399--424.
+
+\bibitem{Heilbron:1969:GBA}
+{\sc J.~L. Heilbron and T.~S. Kuhn}, {\em The genesis of the {Bohr} atom},
+  Historical Studies in the Physical Sciences, 1 (1969), pp.~vi, 211--290.
+
+\bibitem{Huskey:1980:LLC}
+{\sc V.~R. Huskey and H.~D. Huskey}, {\em {Lady Lovelace} and {Charles
+  Babbage}}, Annals of the History of Computing, 2 (1980), pp.~299--329.
+
+\bibitem{Johnson:1978:LDT}
+{\sc S.~C. Johnson and M.~E. Lesk}, {\em Language development tools}, The Bell
+  System Technical Journal, 57 (1978), pp.~2155--2176.
+
+\bibitem{Kim:1999:AFC}
+{\sc E.~E. Kim and B.~A. Toole}, {\em {Ada} and the first computer: The
+  collaboration between ada, countess of lovelace, and computer pioneer
+  {Charles Babbage} resulted in a landmark publication that described how to
+  program the world's first computer}, Scientific American, 280 (1999),
+  pp.~76--81.
+
+\bibitem{Knuth:1986:TB}
+{\sc D.~E. Knuth}, {\em The {\TeX\/}book}, vol.~{\noopsort{1986a}}A of
+  Computers and Typesetting, Ad{\-d}i{\-s}on-Wes{\-l}ey, Reading, MA, USA,
+  1986.
+
+\bibitem{Knuth:1986:MB}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em The
+  {\METAFONT\/}book}, vol.~C of Computers and Typesetting,
+  Ad{\-d}i{\-s}on-Wes{\-l}ey, Reading, MA, USA, {\noopsort{1986c}}1986.
+
+\bibitem{Knuth:1999:DT}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em Digital Typography},
+  CSLI Publications, Stanford, CA, USA, 1999.
+
+\bibitem{Lahiri:2002:ADA}
+{\sc S.~N. Lahiri, Y.~Lee, and N.~Cressie}, {\em On asymptotic distribution and
+  asymptotic efficiency of least squares estimators of spatial variogram
+  parameters}, Journal of Statistical Planning and Inference, 103 (2002),
+  pp.~65--85.
+
+\bibitem{Lamport:1985:LDP}
+{\sc L.~Lamport}, {\em {\LaTeX}\emdash {A} Document Preparation System\emdash
+  User's Guide and Reference Manual}, Ad{\-d}i{\-s}on-Wes{\-l}ey, Reading, MA,
+  USA, 1985.
+
+\bibitem{Mittelbach:2004:LC}
+{\sc F.~Mittelbach, M.~Goossens, J.~Braams, D.~Carlisle, C.~Rowley, C.~Detig,
+  and J.~Schrod}, {\em The {\LaTeX} Companion}, Tools and Techniques for
+  Computer Typesetting, Ad{\-d}i{\-s}on-Wes{\-l}ey, Reading, MA, USA,
+  second~ed., 2004.
+
+\bibitem{Olver:2010:NHM}
+{\sc F.~W.~J. Olver, D.~W. Lozier, R.~F. Boisvert, and C.~W. Clark}, eds., {\em
+  {NIST} Handbook of Mathematical Functions}, Cambridge University Press,
+  Cambridge, UK, 2010.
+
+\bibitem{Adobe:1990:AFM}
+{\sc PostScript Developer Tools \& Strategies Group, Adobe Systems Inc.}, {\em
+  {Adobe} font metric files specification --- Version 3.0}, Mountain View, CA,
+  USA, Mar. 1990.
+
+\bibitem{Randell:1982:ODC}
+{\sc B.~Randell}, ed., {\em The Origins of Digital Computers: Selected Papers},
+  Texts and monographs in computer science, Springer-Verlag, Berlin, Germany~/
+  Heidelberg, Germany~/ London, UK~/ etc., third~ed., 1982.
+
+\bibitem{Robbins:2005:CSS}
+{\sc A.~Robbins and N.~H.~F. Beebe}, {\em Classic Shell Scripting}, O'Reilly
+  Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472, USA, 2005.
+
+\bibitem{Salomon:1995:AT}
+{\sc D.~Salomon}, {\em The Advanced {\TeX}book}, Springer-Verlag, Berlin,
+  Germany~/ Heidelberg, Germany~/ London, UK~/ etc., 1995.
+
+\bibitem{Singh:1997:FEE}
+{\sc S.~Singh}, {\em {Fermat}'s Enigma: The Epic Quest to Solve the World's
+  Greatest Mathematical Problem}, Walker and Company, 435 Hudson Street, New
+  York, NY 10014, USA, 1997.
+
+\bibitem{Taylor:1995:RTP}
+{\sc R.~Taylor and A.~Wiles}, {\em Ring-theoretic properties of certain {Hecke}
+  algebras}, Annals of Mathematics, 142 (1995), pp.~553--572.
+\newblock This paper is a companion to \cite{Wiles:1995:MEC}, providing the
+  remedy for the flaw in Wiles' 1993 proof of Fermat's Last Theorem. See also
+  \cite{Singh:1997:FEE}.
+
+\bibitem{Wiles:1995:MEC}
+{\sc A.~Wiles}, {\em Modular elliptic curves and {Fermat's Last Theorem}},
+  Annals of Mathematics, 142 (1995), pp.~443--551.
+\newblock This paper contains the bulk of the author's proof of the
+  Taniyama--Shimura conjecture and Fermat's Last Theorem, carried out at
+  Princeton University. The companion paper \cite{Taylor:1995:RTP} contains the
+  solution to the flaw discovered in the proof that Wiles announced on June 23,
+  1993, in Cambridge, England. See also \cite{Singh:1997:FEE}. In March 2014,
+  now Royal Society Research Professor Sir Andrew John Wiles of Oxford
+  University was awarded the prestigious Abel Prize in Mathematics for this
+  proof --- an award that also carries a cash prize of six million Norwegian
+  crowns, or about US\$722,000.
+
+\end{thebibliography}

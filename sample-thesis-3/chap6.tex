@@ -1,0 +1,182 @@
+%%% -*-LaTeX-*-
+
+\chapter{Sample theorem-like environments}
+
+The standard \LaTeX{} \verb=\newtheorem= declaration produces numbered
+theorems.  However, the \verb=amsthm= package offers a
+\verb=\newtheorem*= declaration to suppress numbering.
+
+By default, the theorem-like declarations number their output blocks
+consecutively throughout the document.  However, with an optional
+bracketed third argument, you can number blocks within specified
+sectional units.  We give several examples in this chapter.
+
+%%% --------------------------------------------------------------------
+
+\section{Default-numbered samples}
+
+The \LaTeX{} input for this section begins:
+%
+\begin{verbatim}
+\newtheorem  {guess}      {Conjecture}
+\newtheorem* {prediction} {Unnumbered prediction}
+\begin{guess}
+    The Boston Red Sox will win next year's championship.
+\end{guess}
+\begin{guess}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess}
+\begin{prediction}
+    The New York Yankees will be sold to a Denver mining conglomerate.
+\end{prediction}
+\begin{prediction}
+    Baseball will overtake football in television broadcast revenues.
+\end{prediction}
+\end{verbatim}
+
+%
+\newtheorem  {guess}      {Conjecture}
+
+\newtheorem* {prediction} {Unnumbered prediction}
+
+\begin{guess}
+    The Boston Red Sox will win next year's championship.
+\end{guess}
+
+\begin{guess}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess}
+
+\begin{prediction}
+    The New York Yankees will be sold to a Denver mining conglomerate.
+\end{prediction}
+
+\begin{prediction}
+    Baseball will overtake football in television broadcast revenues.
+\end{prediction}
+
+%%% --------------------------------------------------------------------
+
+\section{Chapter-numbered samples}
+
+The \LaTeX{} input for this section begins:
+%
+\begin{verbatim}
+\newtheorem  {guess-2} {Conjecture} [chapter]
+\begin{guess-2}
+    The Boston Red Sox will win next year's championship.
+\end{guess-2}
+\begin{guess-2}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-2}
+\end{verbatim}
+
+%
+\newtheorem {guess-2} {Conjecture} [chapter]
+
+\begin{guess-2}
+    The Boston Red Sox will win next year's championship.
+\end{guess-2}
+
+\begin{guess-2}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-2}
+
+%%% --------------------------------------------------------------------
+
+\section{Section-numbered samples}
+
+The \LaTeX{} input for this section begins:
+%
+\begin{verbatim}
+\newtheorem {guess-3} {Conjecture} [section]
+\begin{guess-3}
+    The Boston Red Sox will win next year's championship.
+\end{guess-3}
+\begin{guess-3}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-3}
+\end{verbatim}
+
+%
+\newtheorem {guess-3} {Conjecture} [section]
+
+\begin{guess-3}
+    The Boston Red Sox will win next year's championship.
+\end{guess-3}
+
+\begin{guess-3}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-3}
+
+%%% --------------------------------------------------------------------
+
+\subsection{Subsection-numbered samples}
+
+The \LaTeX{} input for this section begins:
+%
+\begin{verbatim}
+\newtheorem {guess-4} {Conjecture} [subsection]
+\newtheorem {hunch-4} {Hunch}      [subsection]
+\begin{guess-4}
+    The Boston Red Sox will win next year's championship.
+\end{guess-4}
+\begin{guess-4}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-4}
+\begin{hunch-4}
+    The Salt Lake Bees will not make the major leagues.
+\end{hunch-4}
+\end{verbatim}
+
+%
+\newtheorem {guess-4} {Conjecture} [subsection]
+\newtheorem {hunch-4} {Hunch}      [subsection]
+
+\begin{guess-4}
+    The Boston Red Sox will win next year's championship.
+\end{guess-4}
+
+\begin{guess-4}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-4}
+
+\begin{hunch-4}
+    The Salt Lake Bees will not make the major leagues.
+\end{hunch-4}
+
+%%% --------------------------------------------------------------------
+
+\subsection{More subsection-numbered samples}
+
+The \LaTeX{} input for this section begins:
+%
+\begin{verbatim}
+\newtheorem {guess-5} {Conjecture} [subsection]
+\newtheorem {hunch-5} {Hunch}      [guess-5]
+\begin{guess-5}
+    The Boston Red Sox will win next year's championship.
+\end{guess-5}
+\begin{guess-5}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-5}
+\begin{hunch-5}
+    The Salt Lake Bees will not make the major leagues.
+\end{hunch-5}
+\end{verbatim}
+
+%
+\newtheorem {guess-5} {Conjecture} [subsection]
+\newtheorem {hunch-5} {Hunch}      [guess-5]
+
+\begin{guess-5}
+    The Boston Red Sox will win next year's championship.
+\end{guess-5}
+
+\begin{guess-5}
+    The Pittsburgh Pirates will \emph{not} win next year's championship.
+\end{guess-5}
+
+\begin{hunch-5}
+    The Salt Lake Bees will not make the major leagues.
+\end{hunch-5}

@@ -1,0 +1,88 @@
+\contentsline {chapter}{\uppercase {Abstract}}{iii}
+\contentsline {chapter}{LIST OF FIGURES}{vii}
+\contentsline {chapter}{LIST OF TABLES}{viii}
+\contentsline {chapter}{\uppercase {Notation and Symbols}}{ix}
+\contentsline {chapter}{\uppercase {Typesetting Experiments}}{x}
+\gdef \the@ipfilectr {@-1}
+\unhbox \voidb@x \\[-1.2ex] \kern -1.5em\contentsline {}{\textbf {CHAPTERS}}{}
+\contentsline {chapter}{\numberline {1.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The First}\global \uuthesis@needtocspacetrue }{1}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {1.1}The first section}{1}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsection}{\numberline {1.1.1}The first subsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsection}{\numberline {1.1.2}The second subsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsection}{\numberline {1.1.3}The third subsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsubsection}{\numberline {1.1.3.1}The first subsubsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {subsubsection}{\numberline {1.1.3.2}The second subsubsection}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {paragraph}{\numberline {1.1.3.2.1}The first numbered paragraph}{2}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {paragraph}{\numberline {1.1.3.2.2}The second numbered paragraph}{3}
+\contentsline {section}{\numberline {1.2}The second section}{3}
+\contentsline {section}{\numberline {1.3}The third section}{5}
+\contentsline {section}{\numberline {1.4}Free software packages}{6}
+\contentsline {section}{\numberline {1.5}Resizing figures}{9}
+\contentsline {section}{\numberline {1.6}Summary and conclusions}{13}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-2}
+\contentsline {chapter}{\numberline {2.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Second}\global \uuthesis@needtocspacetrue }{15}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {2.1}References}{15}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-3}
+\contentsline {chapter}{\numberline {3.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Third}\global \uuthesis@needtocspacetrue }{17}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {3.1}References}{17}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-4}
+\contentsline {chapter}{\numberline {4.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Fourth}\global \uuthesis@needtocspacetrue }{19}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {4.1}More on the topic}{19}
+\contentsline {section}{\numberline {4.2}Even more on the topic}{19}
+\contentsline {section}{\numberline {4.3}Summary and conclusions}{20}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-5}
+\contentsline {chapter}{\numberline {5.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {Extending T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor 1000 {} and METAFONT with floating point arithmetic}\global \uuthesis@needtocspacetrue }{21}
+\vspace {\uuchapterbib@chaptersectionspace } 
+\contentsline {section}{\numberline {5.1}Dedication}{24}
+\contentsline {section}{\numberline {5.2}Introduction}{24}
+\contentsline {section}{\numberline {5.3}Arithmetic in T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor 1000 {} and METAFONT}{24}
+\contentsline {section}{\numberline {5.4}Historical remarks}{24}
+\contentsline {section}{\numberline {5.5}Why no floating-point arithmetic?}{26}
+\contentsline {section}{\numberline {5.6}IEEE 754 binary floating-point standard}{27}
+\contentsline {section}{\numberline {5.7}IEEE 754R precision and range}{27}
+\contentsline {section}{\numberline {5.8}Remarks on floating-point arithmetic}{28}
+\contentsline {section}{\numberline {5.9}Binary versus decimal}{28}
+\contentsline {section}{\numberline {5.10}Problems with IEEE 754 arithmetic}{29}
+\contentsline {section}{\numberline {5.11}How decimal arithmetic is different}{29}
+\contentsline {section}{\numberline {5.12}Software floating-point arithmetic}{29}
+\contentsline {section}{\numberline {5.13}How much work is needed}{31}
+\contentsline {section}{\numberline {5.14}Summary}{31}
+\contentsline {section}{\numberline {5.15}References}{31}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {chapter}{\numberline {6.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {Sample theorem-like environments}\global \uuthesis@needtocspacetrue }{34}
+\ifuuthesis@needtocspace \vspace {\uuthesis@chaptersectionspace } \fi \global \uuthesis@needtocspacefalse 
+\contentsline {section}{\numberline {6.1}Default-numbered samples}{34}
+\contentsline {section}{\numberline {6.2}Chapter-numbered samples}{35}
+\contentsline {section}{\numberline {6.3}Section-numbered samples}{35}
+\contentsline {subsection}{\numberline {6.3.1}Subsection-numbered samples}{35}
+\contentsline {subsection}{\numberline {6.3.2}More subsection-numbered samples}{36}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-7}
+\unhbox \voidb@x \\[-1.2ex] \kern -1.5em\contentsline {}{\textbf {APPENDICES}}{}
+\contentsline {chapter}{\numberline {A.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The First}\global \uuthesis@needtocspacetrue }{37}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-8}
+\contentsline {chapter}{\numberline {B.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Second}\global \uuthesis@needtocspacetrue }{38}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-9}
+\contentsline {chapter}{\numberline {C.}\hyphenpenalty =10000\exhyphenpenalty =10000\relax \linepenalty =0 \uppercase {The Third}\global \uuthesis@needtocspacetrue }{39}
+\gdef \the@ipfilectr {}
+\contentsline {chapter}{{\MakeUppercase {Binomial Nomenclature Index}}}{44}
+\contentsline {chapter}{{\MakeUppercase {Free Software Index}}}{45}
+\contentsline {chapter}{{\MakeUppercase {Topic Index}}}{49}

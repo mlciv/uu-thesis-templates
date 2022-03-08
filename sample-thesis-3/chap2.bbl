@@ -1,0 +1,52 @@
+\def \noopsort #1{}
+\begin{thebibliography}{1}
+
+\bibitem{Babbage:1910:BBA}
+{\sc H.~P. Babbage}, {\em {Babbage}: {Babbage}'s analytical engine}, Monthly
+  Notices of the Royal Astronomical Society, 70 (1910), pp.~517--526, 645.
+\newblock Reprinted in \cite[\S 2.3]{Randell:1982:ODC}.
+
+\bibitem{Einstein:1905:NBM}
+{\sc A.~Einstein}, {\em {Eine Neue Bestimmung der Molek{\"u}ldimensionen}.
+  ({German}) [{A} new determination of molecular dimensions]}, inaugural
+  dissertation, Bern Wyss., Bern, Switzerland, 1905.
+\newblock Published in \cite{Einstein:1906:NBM}.
+
+\bibitem{Einstein:1906:NBM}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em {Eine neue
+  Bestimmung der Molek{\"u}ldimensionen}. ({German}) [{A} new determination of
+  molecular dimensions]}, Annalen der Physik (1900) (series 4), 324 (1906),
+  pp.~289--306.
+\newblock See corrections \cite{Einstein:1911:BMAa,Einstein:1911:BMAb}. This is
+  a slightly revised version of Einstein's doctoral dissertation
+  \cite{Einstein:1905:NBM}.
+
+\bibitem{Einstein:1911:BMAa}
+{\sc A.~Einstein}, {\em {Bemerkung zu meiner Arbeit: Eine Beziehung zwischen
+  dem elastischen Verhalten}. ({German}) [{Remark} on my paper: {``A
+  relationship between the elastic behavior \ldots{}''}]}, Annalen der Physik
+  (1900) (series 4), 339 (1911), pp.~590--590.
+\newblock See \cite{Einstein:1911:BZE}.
+
+\bibitem{Einstein:1911:BMAb}
+{\sc A.~Einstein}, {\em {Berichtigung zu meiner Arbeit: Eine neue Bestimmung
+  der Molek{\"u}ldimensionen}. ({German}) [{Corrections} to my work: a new
+  determination of molecular dimensions]}, Annalen der Physik (1900) (series
+  4), 339 (1911), pp.~591--592.
+\newblock See \cite{Einstein:1906:NBM}.
+
+\bibitem{Einstein:1911:BZE}
+\leavevmode\vrule height 2pt depth -1.6pt width 23pt, {\em {Eine Beziehung
+  zwischen dem elastischen Verhalten und der spezifischen W{\"a}rme bei festen
+  K{\"o}rpen mit einatomigem Molek{\"u}l}. ({German}) [{A} relationship between
+  the elastic behavior and the specific heat of solid bodies with monatomic
+  molecules]}, Annalen der Physik (1900) (series 4), 339 (1911), pp.~170--174,
+  590.
+\newblock See remarks \cite{Einstein:1911:BMAa,Einstein:1911:BMAb}.
+
+\bibitem{Randell:1982:ODC}
+{\sc B.~Randell}, ed., {\em The Origins of Digital Computers: Selected Papers},
+  Texts and monographs in computer science, Springer-Verlag, Berlin, Germany~/
+  Heidelberg, Germany~/ London, UK~/ etc., third~ed., 1982.
+
+\end{thebibliography}

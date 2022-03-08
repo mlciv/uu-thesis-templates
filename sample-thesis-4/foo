@@ -1,0 +1,4 @@
+mv sample-thesis-2.bib sample-thesis-3.bib
+mv sample-thesis-2.ist sample-thesis-3.ist
+mv sample-thesis-2.ltx sample-thesis-3.ltx
+mv sample-thesis-2.pdf sample-thesis-3.pdf

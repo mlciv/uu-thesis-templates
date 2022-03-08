@@ -1,0 +1,35 @@
+This sample thesis extends that in ../sample-thesis-3/ to incorporate
+hyperref, natbib compatiable support, which includes autoref, the clickable table of content,
+bookmark, and so on.
+
+However, this template removes the references after per chapter, which is more commonly used in thesis.
+
+For including the whole pdf and adding reference after each chapter, we move it into ../sample-thesis-4/
+
+The easiest way to compile this sample thesis on any Unix platform is
+to simply type
+
+	make
+
+That runs the rough equivalent of these commands:
+
+	pdflatex sample-thesis-4.ltx
+	bibtex sample-thesis-4
+	fgrep -v fsfname sample-thesis-4.idx | makeindex -c -s sample-thesis-4.ist > sample-thesis-4.ind
+	fgrep bioname sample-thesis-4.idx | fgrep -v '|see' | makeindex -c -s sample-thesis-4.ist > sample-thesis-4-bioname.ind
+	fgrep fsfname sample-thesis-4.idx | fgrep -v '|see' | makeindex -c -s sample-thesis-4.ist > sample-thesis-4-fsfname.ind
+
+Repeat them FOUR (4) times to achieve consistency.
+
+If there are no indexes, then repeat just the first two commands four
+times.
+
+During the writing process, the fastest update is done by
+
+	make pdf-pass
+
+It runs pdflatex, bibtex, and makeindex just once.  If the
+bibliography and index are already stable, then only pdflatex needs to
+be run:
+
+	pdflatex sample-thesis-4.ltx
