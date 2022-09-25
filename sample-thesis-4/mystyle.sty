@@ -1,0 +1,159 @@
+% Author comments
+% \newcommand\bmmax{0} % magic to avoid 'too many math alphabets' error
+\usepackage{bm}
+\definecolor{orange}{rgb}{1,0.5,0}
+\definecolor{mdgreen}{rgb}{0,0.6,0}
+\definecolor{mdblue}{rgb}{0,0,0.7}
+\definecolor{dkblue}{rgb}{0,0,0.5}
+\definecolor{dkgray}{rgb}{0.3,0.3,0.3}
+\definecolor{slate}{rgb}{0.25,0.25,0.4}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{ltgray}{rgb}{0.7,0.7,0.7}
+\definecolor{purple}{rgb}{0.7,0,1.0}
+\definecolor{lavender}{rgb}{0.65,0.55,1.0}
+
+% Useful macros for editing text
+\newcommand{\decorateText}[2]{[{\em #1}$_{\footnotesize \tred{\tt #2}}]$}
+\newcommand{\tred}[1]{\textcolor{red}{#1}}
+\newcommand{\todo}[1]{\decorateText{#1}{TODO}}
+\newcommand{\fixme}[1]{[\tred{FIXME}: {\em #1}]}
+\newcommand{\cleanup}[1]{\decorateText{#1}{Cleanup}}
+\newcommand{\name}[2]{\ensuremath{^{\sc #1}_{\sc #2}}}
+\newcommand{\namedComment}[4]{\textcolor{#1}{[\name{#2}{#3} #4]}}
+
+\newcommand{\ignore}[1]{}
+\newcommand{\mnote}[1]{}
+\newcommand{\remove}[1]{}
+\newcommand{\comment}[1]{}
+
+
+
+\def\pp{\par\noindent}
+\newcommand{\na}{\quad--}% used in tables for N/A cells
+
+% Style and tagging. Primarily useful to make examples consistent
+% through out the text
+\newcommand{\concept}[1]{{\bf #1}}
+\newcommand{\example}[1]{{\em #1}}
+\newcommand\aside[1]{\quad\text{[#1]}}
+\newcommand\interpret[1]{\llbracket #1 \rrbracket} % Denotation
+
+
+% Abbreviations
+% ---- LATIN ----
+\def\etal{\emph{et~al.}}			% and others
+\newcommand{\ie}{\textit{i.e.}\xspace}
+\newcommand{\eg}{\textit{e.g.}\xspace}
+\def\vitae{vit\ae{}}
+\def\apriori{\emph{a~priori}}
+\def\aposteriori{\emph{a~posteriori}}
+
+
+% ---- FRENCH ----
+\def\naive{na\"{\i}ve}
+\def\Naive{Na\"{\i}ve}
+\def\naively{na\"{\i}vely}	% Okay, I know, this isn't French.
+\def\Naively{Na\"{\i}vely}
+\def\cafe{caf\'e}
+
+% ---- GERMAN ----
+\def\fur{f\"ur}
+\def\Universitat{Universit\"at}
+\def\Saarbrucken{Saar\-br\"ucken}	% Bypass TeX hyphenation
+\def\Zurich{Z\"urich}
+
+% ---- PORTUGESE (Hi Jorge!) ----
+\def\Computacao{Computa\c{c}\~ao}
+
+% Other
+\def\Cplusplus{C\raisebox{0.5ex}{\tiny\textbf{++}}}
+
+
+% ---- TEXT STYLES ----
+\def\mathsc#1{\text{\textsc{#1}}}
+\def\mathbs#1{\text{\boldmath\ensuremath{#1}}}
+\def\EMPH#1{\textbf{\emph{\boldmath #1}}}
+
+% ----------------------------------------------------------------------
+%  \now  -- Current time in h:mm AM/PM format
+%  \mdyy -- Today's date in m/d/yy format.  Forget Y2K; this is for humans!
+% ----------------------------------------------------------------------
+\newcount\timehh\timehh=\time
+\divide\timehh by 60
+\newcount\timemm\timemm=\time
+\count255=\timehh
+\multiply\count255 by -60
+\advance\timemm by \count255
+\newif\iftimePM
+\ifnum\timehh>11 \timePMtrue\else\timePMfalse\fi
+\ifnum\timehh<1 \advance\timehh by 12\fi
+\ifnum\timehh>12 \advance\timehh by -12\fi
+\def\now{\number\timehh:\ifnum\timemm<10 0\fi\number\timemm
+         \iftimePM pm\else am\fi}
+\newcount\mdYY\mdYY=\year
+\count255=\year
+\divide\count255 by 100
+\multiply\count255 by 100
+\advance\mdYY by -\count255
+\def\mdyy{\number\month/\number\day/\ifnum\mdYY<10 0\fi\number\mdYY}
+
+
+% ----------------------------------------------------------------------
+%  Draft notice.  Put \DRAFT on the title page, in place of \date.
+% ----------------------------------------------------------------------
+\def\draftnotice{Preliminary draft \mdyy \\Not for distribution}
+
+\def\DRAFT{
+\date{\fbox{\textsf{\textbf{\draftnotice}}}}
+\def\@oddfoot{\footnotesize\hss\fbox{\textbf{\textsf{\draftnotice}}}\hss}
+\let\@evenfoot\@oddfoot
+}
+
+
+% ----------------------------------------------------------------------
+% Incomplete marker
+% ----------------------------------------------------------------------
+
+\newenvironment{incomplete}
+{\color{blue}
+  \begin{center}  -----  \rule{1ex}{1ex} ----- This part (in blue) is incomplete, and will be finished in the next revision ----- \rule{1ex}{1ex}  ----- \end{center}}
+{ \begin{center}  -----  \rule{1ex}{1ex}  ----- \end{center}
+}
+
+
+% ----------------------------------------------------------------------
+%  Include a file verbatim.  Searches the TEXINPUTS path for the file,
+%  even though that's probably not what you really want.  Stolen from
+%  ``verbatimfiles.sty'' by Chris Rowley and others.  [Don't use their
+%  \vertbatimlisting macro; it has some bizarre side-effects!]
+% ----------------------------------------------------------------------
+\def\verbinput#1{
+\begingroup\@verbatim\frenchspacing\@vobeyspaces\input#1\endgroup
+}
+
+
+%----------------------------------------------------------------------
+%  More footnote symbols, please.
+%----------------------------------------------------------------------
+\def\@fnsymbol#1{\ensuremath{\ifcase#1\or *\or \dagger\or \ddagger\or
+   \mathsection\or \mathparagraph\or \|\or **\or \dagger\dagger
+   \or \ddagger\ddagger \or \mathsection\mathsection \or
+   \mathparagraph\mathparagraph \else\@ctrerr\fi}}
+
+
+
+%----------------------------------------------------------------------
+% Tikz options
+%----------------------------------------------------------------------
+\usetikzlibrary{arrows,automata}
+\usetikzlibrary{positioning}
+\usetikzlibrary{backgrounds}
+\usetikzlibrary{calc}
+\usetikzlibrary{patterns}
+
+%----------------------------------------------------------------------
+% Rotates text
+%----------------------------------------------------------------------
+\newcommand{\rot}[1]{\begin{sideways}#1\end{sideways}}
+
+\ProvidesPackage{mystyle}

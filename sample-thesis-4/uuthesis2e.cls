@@ -911,7 +911,8 @@
 \def\fourlevels{
   \threelevels
   \setcounter{secnumdepth}{6}
-  \setcounter{tocdepth}{6}
+  %\setcounter{tocdepth}{6} only showing two levels
+  \setcounter{tocdepth}{3}
   \newcounter{subsubsection}[subsection]
   \def\thesubsubsection{\thesubsection.\arabic{subsubsection}}
   \def\theparagraph{\thesubsubsection.\arabic{paragraph}}
@@ -922,10 +923,10 @@
    {\center                     %style
     \HFsubsection\bfseries}}
   \def\subsubsection{\@Ustartsection{subsubsection}{5}% Fix Nov 1992
-                        {\z@}   %indent
-       {\HFsubsubsectionSKIP}   %before
+                        {\z@}   %indent \z@ == 0pt
+       {\HFsubsubsectionSKIP\vspace{-9pt}}   %before 20-11
                         {1sp}   %after
-  {\HFsubsubsection\bfseries          %style
+  {\normalfont  %style
    \hsize=\mainheadingwidth}}
   \def\paragraph{\@Ustartsection{paragraph}{6}
                  {\parindent}   %indent

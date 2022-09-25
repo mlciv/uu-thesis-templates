@@ -39,7 +39,7 @@
 %%% [16-Mar-2016]
 %%% ====================================================================
 
-\documentclass[11pt,Chicago]{uuthesis2e}
+\documentclass[11pt,Chicago,letterpaper]{uuthesis2e}
 
 %%% Undefine two macros from uuthesis2e.cls that conflict with
 %%% definitions in amsthm.sty that fail to check for prior definitions!
@@ -101,7 +101,7 @@
 \usepackage {url}
 
 % (inline references)
-\usepackage {natbib}
+\usepackage[sort, square, numbers]{natbib}
 \newcommand{\newblock}{}
 \usepackage{tabularx}
 
@@ -110,7 +110,17 @@
 
 %% hyperref only works when using uuthesis-2021-hyper
 %% https://tex.stackexchange.com/questions/115008/how-do-i-add-section-subsection-numbers-to-pdf-bookmarks
-\usepackage[colorlinks=false, hidelinks,bookmarksnumbered]{hyperref}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=false,
+    %linkbordercolor={white},
+    %citebordercolor={white},
+    filebordercolor={white},
+    menubordercolor={white},
+    urlbordercolor={white},
+    runbordercolor={white},
+    bookmarksnumbered
+}
 
 %%% ====================================================================
 %%% The various uuthesis-*.sty packages must come AFTER all other
@@ -127,18 +137,23 @@
 %%% Use one or the other of these:
 % \usepackage {color}
 \usepackage {uuthesis-color-headings}
-\definecolor{utahheadingcolor} {rgb}  {0.7, 0.0, 0.0}
-\definecolor{utahtheoremcolor} {rgb}  {0.490,0.149,0.804} % purple4
-\definecolor{utahtheoremcolor} {rgb}  {0.545,0.137,0.137} % brown4
+
+\definecolor{utahheadingcolor} {rgb}  {0.0, 0.0, 0.0}
+\definecolor{utahtheoremcolor} {rgb}  {0.0,0.0,0.0} % purple4
+\definecolor{utahtheoremcolor} {rgb}  {0.0,0.0,0.0} % brown4
+
+%\definecolor{utahheadingcolor} {rgb}  {0.7, 0.0, 0.0}
+%\definecolor{utahtheoremcolor} {rgb}  {0.490,0.149,0.804} % purple4
+%\definecolor{utahtheoremcolor} {rgb}  {0.545,0.137,0.137} % brown4
 
 %%% Here is another, and more convenient, way to define colors, via
 %%% aliases of named colors in the X11-derived rgb.sty file
 
 \usepackage{coloralias}
-\definecoloralias{utahheadingcolor}{steelblue4}
-\definecoloralias{utahheadingcolor}{red}
-\definecoloralias{utahtheoremcolor}{hotpink3}
-\definecoloralias{utahtheoremcolor}{blue1}
+%\definecoloralias{utahheadingcolor}{steelblue4}
+%\definecoloralias{utahheadingcolor}{red}
+%\definecoloralias{utahtheoremcolor}{hotpink3}
+%\definecoloralias{utahtheoremcolor}{blue1}
 
 %%% The default heading color is utahred (defined by University Printing
 %%% Services as 0.8 red, 0.0 green, 0.0 blue), but you could redefine
@@ -252,11 +267,15 @@
 \tableofcontents
 \listoffigures
 \listoftables
-%
-%%% Optional front matter page(s), made from source "notation.tex". If
-%%% you don't need it, then comment out the \optionalfront command
-%%% line!  The first argument is the (unnumbered) section header for
-%%% the text supplied by the file input by the second argument; that
+%% For expediting review, using the following
+%\newif\listoffiguresoff
+%\newif\listoftablesoff
+
+\%
+\%%% Optional front matter page(s), made from source "notation.tex". If
+%%%% you don't need it, then comment out the \optionalfront command
+%%%% line!  The first argument is the (unnumbered) section header for
+ %%% the text supplied by the file input by the second argument; that
 %%% file must NOT contain \chapter, \section, \subsection, \ldots{}
 %%% sectioning commands.
 
@@ -276,6 +295,17 @@
 \pagestyle{plain} % TEMPORARY EXPERIMENT: override default page headers
 \pagestyle{headings} % TEMPORARY EXPERIMENT: override default page headers
 
+%For expediting review: move all the tables, figures at the end of each chapters
+%% not put per float one page, please use the following.
+%\renewcommand{\efloatseparator}{\vfill}
+%
+%\include {chap1}
+% For expediting review, we delayed the figures and tables, we need to process
+% the delayeed floats after each chapter by the following command, please add one after each chap.
+%\processdelayedfloats
+%\include {chap2}
+%\processdelayedfloats
+
 \include {chap1}
 \include {chap2}
 \include {chap3}
@@ -288,6 +318,9 @@
 \appendix       % Chapters, sections are now appendix style A, A.1, A.2, B, C, D, ...
 
 \include {appa}
+% For expediting review, we delayed the figures and tables, we need to process
+% the delayeed floats after each chapter by the following command, please add one after each chap.
+%\processdelayedfloats
 \include {appb}
 \include {appc}
 
@@ -321,8 +354,10 @@
 %%% use, the style is defined in each chapter/appendix file that needs
 %%% a bibliography.  Thus, we suppress it here:
 
-\bibliographystyle{plainnat}
-%%%\bibliographystyle{authordate1}
+% Computer Science deparment have a list of supported style.
+% https://gradschool.utah.edu/thesis/department-approved-style-guides.php 
+% It seems IEEEtranN will be a safe style
+\bibliographystyle{IEEEtranN}
 
 %%% This can also specify a comma-separated list (without embedded
 %%% spaces) of *.bib files found by BibTeX in its BIBINPUTS search
@@ -336,7 +371,11 @@
 %%% \jobname.bbl.  For chapterbib use, there is no end-of-volume
 %%% bibliography, so we suppress it here:
 
+\begingroup
+\setlength{\bibsep}{10pt}
+\linespread{1}\selectfont
 \bibliography{sample-thesis-4.bib}
+\endgroup
 
 %%% The last part of this sample thesis is two specialized indexes,
 %%% and a general topic index.  If the companion Makefile is used to

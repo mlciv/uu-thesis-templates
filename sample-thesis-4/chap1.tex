@@ -12,29 +12,6 @@ produces incorrect vertical spacing.
 \blah
 
 \citet{Kim:1999:AFC} propose that...
-
-In \figref{fig1}, we have a picture, and the \LaTeX{} markup
-to include it looks like this:
-%
-\begin{verbatim}
-\begin{figure}[t]
-    \centerline{\includegraphics{fig1}}
-    \caption{The first figure.}%
-    \figlabel{fig1}
-\end{figure}
-\end{verbatim}
-%
-We intentionally omitted an extension on the filename, so that this
-document can be processed with \verb=latex= to get an output
-\verb=.dvi= file, or with \verb=pdflatex= to get an output \verb=.pdf=
-file.  The first case uses the file \verb=fig1.eps=, and the second
-uses \verb=fig1.pdf=.  The \verb=distill= or \verb=ps2pdf= commands
-can be used to convert from \emph{Encapulated PostScript}%
-\index{Encapulated PostScript (EPS)}
-files to \emph{Portable Document Format}%
-\index{Portable Document Format (PDF)}
-files.
-
 \begin{figure}[t]
     \centerline{\includegraphics{fig1}}
     \caption{The first figure.}%

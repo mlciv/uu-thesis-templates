@@ -1,0 +1,89 @@
+% ========================================================================
+% This file consists of machine learning and structured prediction
+% specific symbols. It is not a stand-alone file and requires the
+% symbol.sty to be included because it refers to symbols defined in
+% that file.
+% ========================================================================
+
+\newcommand\KL[2]{\ensuremath{\text{KL}\left( #1 \| #2 \right)}} % KL-divergence
+
+\usepackage{amsmath}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\newcommand{\IN}{$x$}
+\newcommand{\OUT}{$y$}
+\newcommand{\HIDDEN}{{\cal z}}
+\newcommand{\ALG}{{\cal A}}
+\newcommand{\HYP}{{\cal H}}
+%\newcommand{\hyp}{h}
+\newcommand{\hopt}{\hyp_\opt}
+\newcommand{\numEx}{m}
+\newcommand{\numHid}{l}
+\newcommand{\ex}{(\bx,\by)}
+
+
+\newcommand{\Score}{\Omega}
+\newcommand{\GEN}{\mathcal{Y}}
+
+\newcommand{\ASTAR}{$A^*$}
+
+\newcommand{\Data}{{\sD}}
+\newcommand{\DataXY}{\Data^{X,Y}}
+\newcommand{\DataXYZ}{\Data^{X,Z,Y}}
+\newcommand{\DataSetXY}{\brc{(\bx_1, \by_1),\ldots,(\bx_\numEx, \by_\numEx)}}
+\newcommand{\DataSetXYZ}{\brc{(\bx_1, \bz^1_1, \ldots, \bz^\numHid_1, \by_1),\ldots,(\bx_\numEx, \bz^1_\numEx, \ldots \bz^\numHid_\numEx, \by_\numEx)}}
+\newcommand{\Dist}{\mathrm{P}}
+\newcommand{\DistXY}{\Dist^{\IN,\OUT}}
+\newcommand{\DistXYZ}{\Dist^{\IN,\HIDDEN,\OUT}}
+\newcommand{\growth}{{\cal N}}
+
+\newcommand{\Feat}{\Phi}
+\newcommand{\FeatX}{\Feat\p{\bx}}
+\newcommand{\FeatXY}{\Feat\p{\bx, \by}}
+
+
+\newcommand{\Inference}{\mathop{\mathrm{Inference}}}
+\newcommand{\Constrained}{\mathop{{\cal C}}}
+
+%\newcommand{\Event}{E}
+\newcommand{\nx}{{n_x}}
+\newcommand{\ny}{{n_y}}
+\newcommand{\dy}{{d_y}}
+\newcommand{\score}{\mathop{\mathrm{score}}}
+
+\newcommand{\cost}{p}
+\newcommand{\Cost}{\mathbf \cost}
+\newcommand{\NV}{\ensuremath{d}}
+\newcommand{\NC}{\ensuremath{c}}
+%\newcommand{\var}{u}
+\newcommand{\Var}{{\mathbf \var}}
+\newcommand{\Constraint}{\mathbf C}
+\newcommand{\ind}{I}
+\newcommand{\Ind}{{\mathbf \ind}}
+\newcommand{\Domain}{\mathop{\mathrm{Domain}}}
+\newcommand{\Transform}{\mathop{\mathrm{Transform}}}
+\newcommand{\nphi}{{N_\phi}}
+
+\newcommand{\bigConst}{\Gamma}
+\newcommand{\smallConst}{\gamma}
+
+\newcommand{\promoSet}{\ensuremath{{\cal P}}}
+\newcommand{\demoSet}{\ensuremath{{\cal D}}}
+
+\newcommand{\bgreek}[1]{\text{\boldmath{$#1$}}}
+\newcommand{\Alpha}[0]{A}
+
+\providecommand{\lda}{}\renewcommand{\lda}{{\mbox{\boldmath$\lambda$}}}
+
+
+
+\newcommand{\cor}{{\vee}}
+\newcommand{\Cor}{{\mid}}
+
+\newcommand{\cand}{{\wedge}}
+\newcommand{\Cand}{{\&}}
+
+% \newcommand{\lnot}[1]{{\overline{#1}}}
+
+\ProvidesPackage{mlsymbols}
